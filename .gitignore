@@ -1,0 +1,13 @@
+# venv
+.venv/
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/
+
+# mac
+.DS_Store
+
+# notebooks
+.ipynb_checkpoints/
