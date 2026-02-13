@@ -12,3 +12,10 @@ __pycache__/
 # notebooks
 .ipynb_checkpoints/
 .env
+
+__pycache__/
+*.pyc
+.venv/
+.env
+.data/embeddings.npy (or data/*.npy)
+data/embeddings.npy
