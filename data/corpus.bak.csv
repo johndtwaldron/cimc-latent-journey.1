@@ -1,0 +1,111 @@
+id,stage,spoke,act,text
+1,refusal,3,departure,I keep waiting for the perfect moment to start.
+2,refusal,3,departure,"I tell myself I'm not ready yet, even though I have enough to begin."
+3,refusal,3,departure,I delay because starting would make my intentions real.
+4,refusal,3,departure,I hide behind planning so I don't have to risk failure.
+5,refusal,3,departure,I keep polishing instead of publishing.
+6,refusal,3,departure,I avoid the next step because it might expose what I actually want.
+7,refusal,3,departure,I pretend I'm busy when I'm really afraid.
+8,refusal,3,departure,I numb out instead of choosing a direction.
+9,refusal,3,departure,I overthink until the moment passes.
+10,refusal,3,departure,I wait for external permission instead of committing.
+11,call,2,departure,Something in me knows the current way of living isn't enough.
+12,call,2,departure,"I feel a pull toward a truer life, even if I can't explain it."
+13,call,2,departure,A new possibility appears and I can't unsee it.
+14,call,2,departure,I sense a mission forming: build something that matters.
+15,call,2,departure,I get a signal—an invitation to level up.
+16,call,2,departure,I feel the discomfort that precedes change.
+17,call,2,departure,I notice a repeating pattern and decide it ends here.
+18,call,2,departure,I see a path where my skills and values align.
+19,call,2,departure,I realize the cost of staying the same is higher than changing.
+20,call,2,departure,I feel a quiet certainty: it's time.
+21,threshold,5,departure,I take one step even while afraid.
+22,threshold,5,departure,I choose action over reassurance.
+23,threshold,5,departure,"I send the message, ship the commit, make the call."
+24,threshold,5,departure,I cross the line from thinking to doing.
+25,threshold,5,departure,I stop negotiating with my fear and move anyway.
+26,threshold,5,departure,I make the first uncomfortable move and survive it.
+27,threshold,5,departure,I accept that imperfect action is the entrance fee.
+28,threshold,5,departure,I begin before confidence arrives.
+29,threshold,5,departure,I commit publicly so I can't retreat easily.
+30,threshold,5,departure,I let momentum replace motivation.
+31,tests,6,initiation,"I hit friction and treat it as feedback, not failure."
+32,tests,6,initiation,I learn by breaking things and fixing them.
+33,tests,6,initiation,I keep iterating instead of quitting.
+34,tests,6,initiation,I notice old triggers and practice staying present anyway.
+35,tests,6,initiation,"I refine the system: smaller steps, clearer inputs."
+36,tests,6,initiation,I get rejected and stay on the path.
+37,tests,6,initiation,I feel resistance and choose discipline.
+38,tests,6,initiation,I stop chasing novelty and do the boring reps.
+39,tests,6,initiation,"I test assumptions with reality, not mood."
+40,tests,6,initiation,I build stamina for uncertainty.
+41,allies,6,initiation,I find people who make the path clearer.
+42,allies,6,initiation,I ask for help without collapsing my self-respect.
+43,allies,6,initiation,I learn from mentors but keep my own compass.
+44,allies,6,initiation,I let supportive people amplify my momentum.
+45,allies,6,initiation,I collaborate without surrendering my agency.
+46,allies,6,initiation,I accept guidance while owning the decisions.
+47,allies,6,initiation,I join a community that raises my standards.
+48,allies,6,initiation,I build tools that help me think better.
+49,allies,6,initiation,"I surround myself with builders, not spectators."
+50,allies,6,initiation,I choose environments that match the man I'm becoming.
+51,approach,7,initiation,I simplify the plan until it's executable.
+52,approach,7,initiation,I focus on the one constraint that unlocks progress.
+53,approach,7,initiation,I remove distractions that keep me fragmented.
+54,approach,7,initiation,I choose a single direction and allocate energy to it.
+55,approach,7,initiation,I structure my day so the important work happens first.
+56,approach,7,initiation,I stop seeking intensity and start seeking consistency.
+57,approach,7,initiation,"I measure progress with outputs, not feelings."
+58,approach,7,initiation,I decide what 'done' looks like before I begin.
+59,approach,7,initiation,I create a repeatable workflow instead of improvising daily.
+60,approach,7,initiation,I move from ambition to implementation.
+61,ordeal,8,initiation,Everything falls apart and I learn what matters.
+62,ordeal,8,initiation,I face the part of me that wants to self-sabotage.
+63,ordeal,8,initiation,I hit a low and choose not to abandon myself.
+64,ordeal,8,initiation,I confront shame without letting it steer.
+65,ordeal,8,initiation,I stop outsourcing my worth and stand on my own.
+66,ordeal,8,initiation,I tolerate discomfort long enough for it to transform.
+67,ordeal,8,initiation,I feel grief and keep moving forward.
+68,ordeal,8,initiation,I accept the cost of growth instead of resenting it.
+69,ordeal,8,initiation,I let old identities die so new ones can form.
+70,ordeal,8,initiation,I discover that I can endure more than I thought.
+71,reward,9,initiation,I get a win that proves the work is real.
+72,reward,9,initiation,I see evidence: the system is producing results.
+73,reward,9,initiation,I feel pride without needing anyone else to validate it.
+74,reward,9,initiation,I notice I'm calmer because I'm aligned.
+75,reward,9,initiation,I earn confidence through repetition.
+76,reward,9,initiation,"I experience competence: I can build, test, ship."
+77,reward,9,initiation,I feel power that comes from integrity.
+78,reward,9,initiation,I recognize that I am becoming reliable to myself.
+79,reward,9,initiation,I enjoy the quiet satisfaction of progress.
+80,reward,9,initiation,I see that my future is being built by my habits.
+81,return,10,return,I bring what I've learned back into daily life.
+82,return,10,return,I stop treating growth as a phase and make it a baseline.
+83,return,10,return,"I integrate the lessons into how I work, love, and live."
+84,return,10,return,I share the framework in a way that helps others.
+85,return,10,return,I turn the insights into a practical tool.
+86,return,10,return,I keep the standards even when no one is watching.
+87,return,10,return,I choose long-term alignment over short-term comfort.
+88,return,10,return,I refine the system so it survives busy weeks.
+89,return,10,return,I build a life that matches the man I claim to be.
+90,return,10,return,I act like the future is already underway.
+91,integration,11,return,I stop performing and start listening to myself.
+92,integration,11,return,I can feel the difference between ego and instinct.
+93,integration,11,return,I respond instead of react.
+94,integration,11,return,I let my body lead when my mind spirals.
+95,integration,11,return,"I treat emotions as signals, not commands."
+96,integration,11,return,I hold boundaries without hostility.
+97,integration,11,return,I choose presence over tactics.
+98,integration,11,return,I trust myself more because I keep promises to myself.
+99,integration,11,return,I can be intense without being compulsive.
+100,integration,11,return,I become congruent: my values and actions match.
+101,elixir,12,return,I return with something useful for others.
+102,elixir,12,return,I turn my story into a tool someone else can use.
+103,elixir,12,return,I explain the path without pretending it's easy.
+104,elixir,12,return,"I teach what I practiced, not what I fantasized."
+105,elixir,12,return,"I build artifacts—code, notes, systems—that outlast moods."
+106,elixir,12,return,I model grounded confidence instead of selling hype.
+107,elixir,12,return,I help others cross their threshold with clarity.
+108,elixir,12,return,I contribute work that proves my competence.
+109,elixir,12,return,I share the map while honoring each person's journey.
+110,elixir,12,return,I leave something behind that makes the world slightly better.

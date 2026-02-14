@@ -1,0 +1,268 @@
+id,stage,text,source
+1,refusal,"I keep waiting for the perfect moment to start.",core
+2,refusal,"I tell myself I'm not ready yet, even though I have enough to begin.",core
+3,refusal,"I delay because starting would make my intentions real.",core
+4,refusal,"I hide behind planning so I don't have to risk failure.",core
+5,refusal,"I keep polishing instead of publishing.",core
+6,refusal,"I avoid the next step because it might expose what I actually want.",core
+7,refusal,"I pretend I'm busy when I'm really afraid.",core
+8,refusal,"I numb out instead of choosing a direction.",core
+9,refusal,"I overthink until the moment passes.",core
+10,refusal,"I wait for external permission instead of committing.",core
+11,call,"Something in me knows the current way of living isn't enough.",core
+12,call,"I feel a pull toward a truer life, even if I can't explain it.",core
+13,call,"A new possibility appears and I can't unsee it.",core
+14,call,"I sense a mission forming: build something that matters.",core
+15,call,"I get a signal—an invitation to level up.",core
+16,call,"I feel the discomfort that precedes change.",core
+17,call,"I notice a repeating pattern and decide it ends here.",core
+18,call,"I see a path where my skills and values align.",core
+19,call,"I realize the cost of staying the same is higher than changing.",core
+20,call,"I feel a quiet certainty: it's time.",core
+21,threshold,"I take one step even while afraid.",core
+22,threshold,"I choose action over reassurance.",core
+23,threshold,"I send the message, ship the commit, make the call.",core
+24,threshold,"I cross the line from thinking to doing.",core
+25,threshold,"I stop negotiating with my fear and move anyway.",core
+26,threshold,"I make the first uncomfortable move and survive it.",core
+27,threshold,"I accept that imperfect action is the entrance fee.",core
+28,threshold,"I begin before confidence arrives.",core
+29,threshold,"I commit publicly so I can't retreat easily.",core
+30,threshold,"I let momentum replace motivation.",core
+31,tests,"I hit friction and treat it as feedback, not failure.",core
+32,tests,"I learn by breaking things and fixing them.",core
+33,tests,"I keep iterating instead of quitting.",core
+34,tests,"I notice old triggers and practice staying present anyway.",core
+35,tests,"I refine the system: smaller steps, clearer inputs.",core
+36,tests,"I get rejected and stay on the path.",core
+37,tests,"I feel resistance and choose discipline.",core
+38,tests,"I stop chasing novelty and do the boring reps.",core
+39,tests,"I test assumptions with reality, not mood.",core
+40,tests,"I build stamina for uncertainty.",core
+41,allies,"I find people who make the path clearer.",core
+42,allies,"I ask for help without collapsing my self-respect.",core
+43,allies,"I learn from mentors but keep my own compass.",core
+44,allies,"I let supportive people amplify my momentum.",core
+45,allies,"I collaborate without surrendering my agency.",core
+46,allies,"I accept guidance while owning the decisions.",core
+47,allies,"I join a community that raises my standards.",core
+48,allies,"I build tools that help me think better.",core
+49,allies,"I surround myself with builders, not spectators.",core
+50,allies,"I choose environments that match the man I'm becoming.",core
+51,approach,"I simplify the plan until it's executable.",core
+52,approach,"I focus on the one constraint that unlocks progress.",core
+53,approach,"I remove distractions that keep me fragmented.",core
+54,approach,"I choose a single direction and allocate energy to it.",core
+55,approach,"I structure my day so the important work happens first.",core
+56,approach,"I stop seeking intensity and start seeking consistency.",core
+57,approach,"I measure progress with outputs, not feelings.",core
+58,approach,"I decide what 'done' looks like before I begin.",core
+59,approach,"I create a repeatable workflow instead of improvising daily.",core
+60,approach,"I move from ambition to implementation.",core
+61,ordeal,"Everything falls apart and I learn what matters.",core
+62,ordeal,"I face the part of me that wants to self-sabotage.",core
+63,ordeal,"I hit a low and choose not to abandon myself.",core
+64,ordeal,"I confront shame without letting it steer.",core
+65,ordeal,"I stop outsourcing my worth and stand on my own.",core
+66,ordeal,"I tolerate discomfort long enough for it to transform.",core
+67,ordeal,"I feel grief and keep moving forward.",core
+68,ordeal,"I accept the cost of growth instead of resenting it.",core
+69,ordeal,"I let old identities die so new ones can form.",core
+70,ordeal,"I discover that I can endure more than I thought.",core
+71,reward,"I get a win that proves the work is real.",core
+72,reward,"I see evidence: the system is producing results.",core
+73,reward,"I feel pride without needing anyone else to validate it.",core
+74,reward,"I notice I'm calmer because I'm aligned.",core
+75,reward,"I earn confidence through repetition.",core
+76,reward,"I experience competence: I can build, test, ship.",core
+77,reward,"I feel power that comes from integrity.",core
+78,reward,"I recognize that I am becoming reliable to myself.",core
+79,reward,"I enjoy the quiet satisfaction of progress.",core
+80,reward,"I see that my future is being built by my habits.",core
+81,return,"I bring what I've learned back into daily life.",core
+82,return,"I stop treating growth as a phase and make it a baseline.",core
+83,return,"I integrate the lessons into how I work, love, and live.",core
+84,return,"I share the framework in a way that helps others.",core
+85,return,"I turn the insights into a practical tool.",core
+86,return,"I keep the standards even when no one is watching.",core
+87,return,"I choose long-term alignment over short-term comfort.",core
+88,return,"I refine the system so it survives busy weeks.",core
+89,return,"I build a life that matches the man I claim to be.",core
+90,return,"I act like the future is already underway.",core
+91,integration,"I stop performing and start listening to myself.",core
+92,integration,"I can feel the difference between ego and instinct.",core
+93,integration,"I respond instead of react.",core
+94,integration,"I let my body lead when my mind spirals.",core
+95,integration,"I treat emotions as signals, not commands.",core
+96,integration,"I hold boundaries without hostility.",core
+97,integration,"I choose presence over tactics.",core
+98,integration,"I trust myself more because I keep promises to myself.",core
+99,integration,"I can be intense without being compulsive.",core
+100,integration,"I become congruent: my values and actions match.",core
+101,elixir,"I return with something useful for others.",core
+102,elixir,"I turn my story into a tool someone else can use.",core
+103,elixir,"I explain the path without pretending it's easy.",core
+104,elixir,"I teach what I practiced, not what I fantasized.",core
+105,elixir,"I build artifacts—code, notes, systems—that outlast moods.",core
+106,elixir,"I model grounded confidence instead of selling hype.",core
+107,elixir,"I help others cross their threshold with clarity.",core
+108,elixir,"I contribute work that proves my competence.",core
+109,elixir,"I share the map while honoring each person's journey.",core
+110,elixir,"I leave something behind that makes the world slightly better.",core
+111,refusal,"I sense the world is staged, but I can’t yet name what’s wrong.",matrix
+112,call,"A stranger offers a choice: comfort in the story, or truth with consequences.",matrix
+113,threshold,"I choose the red pill: I’d rather know than cope.",matrix
+114,threshold,"The old reality breaks; I realize I was living inside an operating system.",matrix
+115,tests,"I accept that freedom feels like fear at first.",matrix
+116,tests,"I train daily: repetition turns chaos into skill.",matrix
+117,tests,"I meet resistance that wants me asleep; I stop negotiating with it.",matrix
+118,tests,"I learn to read the code: patterns, incentives, and hidden rules.",matrix
+119,approach,"I stop asking ‘am I ready?’ and start asking ‘what’s the next move?’",matrix
+120,integration,"I become the kind of person who can hold truth without collapsing.",matrix
+121,refusal,"I feel numb in a life that looks fine on paper.",fight_club
+122,refusal,"I notice I’m buying an identity instead of building one.",fight_club
+123,call,"I meet a shadow-teacher: the part of me that refuses to be domesticated.",fight_club
+124,threshold,"I choose pain over numbness; sensation becomes a doorway back to myself.",fight_club
+125,tests,"I learn the difference between performance and presence.",fight_club
+126,tests,"I stop outsourcing my meaning to approval, status, or romance.",fight_club
+127,ordeal,"I face the split inside: the actor vs the one who actually wants.",fight_club
+128,integration,"I take responsibility for my shadow instead of letting it run the show.",fight_club
+129,approach,"I build discipline: small acts of integrity, repeated, become identity.",fight_club
+130,return,"I choose creation over destruction: rebuild the self without burning the world.",fight_club
+131,refusal,"I inherit a story about who I am, and it doesn’t fit anymore.",kingdom_of_heaven
+132,call,"A mentor calls me to a higher standard: ‘be better than your past.’",kingdom_of_heaven
+133,threshold,"I leave the familiar to pursue a harder kind of honor.",kingdom_of_heaven
+134,allies,"I learn leadership is service, not dominance.",kingdom_of_heaven
+135,ordeal,"I hold the line when fear says run.",kingdom_of_heaven
+136,integration,"I choose mercy over ego, even when it costs me.",kingdom_of_heaven
+137,reward,"I protect people who can’t protect themselves; my values become real.",kingdom_of_heaven
+138,tests,"I negotiate with power without selling my soul.",kingdom_of_heaven
+139,ordeal,"I accept loss without losing my integrity.",kingdom_of_heaven
+140,return,"I return changed: not a legend, but a man who keeps his vow.",kingdom_of_heaven
+141,refusal,"I sense the set is too perfect, but I keep smiling for the cameras.",truman
+142,call,"A crack appears in the world; I can’t unsee that my life might be staged.",truman
+143,threshold,"I test the boundaries of the script and choose truth over comfort.",truman
+144,tests,"The system pushes back; I learn that freedom requires sustained courage.",truman
+145,approach,"I stop asking for permission and start planning my exit with calm precision.",truman
+146,ordeal,"I face the fear designed to keep me small and walk through it anyway.",truman
+147,return,"I step into the unknown: no applause, just a real life I choose.",truman
+148,refusal,"I tell myself it’s just a dream, because doubt is safer than responsibility.",inception
+149,call,"A mission appears: plant an idea that could change everything.",inception
+150,threshold,"I accept the deeper layer: to build reality, I must face my own mind.",inception
+151,tests,"I run drills in layers of pressure; skill replaces panic.",inception
+152,allies,"I assemble a team where each strength covers another’s weakness.",inception
+153,approach,"I design the plan down to the timing: structure becomes sanity.",inception
+154,ordeal,"I confront the memory that sabotages me and refuse to let it steer.",inception
+155,integration,"I choose a grounded inner compass: I can’t control reality, but I can choose integrity.",inception
+156,return,"I come back changed: less attached to certainty, more committed to what I build.",inception
+
+157,refusal,"I play along with the story I’m sold, even when it smells like rot.",la_confidential
+158,call,"I see the corruption behind the badge; the truth demands a price.",la_confidential
+159,threshold,"I stop performing loyalty and start investigating what power hides.",la_confidential
+160,tests,"Every clue creates enemies; I learn to move quietly and verify everything.",la_confidential
+161,allies,"I find unlikely partners: integrity can be shared even among rivals.",la_confidential
+162,ordeal,"I face the cost of truth: reputation, safety, and the comfort of lies.",la_confidential
+163,reward,"The pattern snaps into focus; I can finally name what’s really happening.",la_confidential
+164,return,"I choose justice over image and walk forward with my conscience intact.",la_confidential
+
+165,refusal,"I cling to ordinary rules because wonder feels like losing control.",alice
+166,call,"I follow the impossible: curiosity becomes the doorway.",alice
+167,threshold,"I fall into the unknown and let the old map dissolve.",alice
+168,tests,"Nothing behaves ‘properly’; I learn to adapt instead of argue.",alice
+169,allies,"I meet strange guides and realize wisdom can look eccentric.",alice
+170,ordeal,"I face the part of me that doubts my right to take up space.",alice
+171,integration,"I remember who I am: not the role, but the chooser.",alice
+172,return,"I carry wonder back to the real world and act with more courage.",alice
+173,refusal,"I stay in sepia comfort because color feels too big for me.",oz
+174,call,"A storm lifts me: life interrupts my plan and offers an adventure.",oz
+175,threshold,"I arrive in a strange land and realize I must walk the road myself.",oz
+176,allies,"I gather companions; each of us wants what we think we lack.",oz
+177,tests,"We face tricks and threats that test whether we’ll quit or keep moving.",oz
+178,ordeal,"The illusion shatters: the ‘wizard’ is just a man, and I must own my power.",oz
+179,integration,"I learn the gift was always within: heart, courage, mind, and home.",oz
+180,return,"I go back with a new lens: I can choose my life without needing a savior.",oz
+181,allies,"The Hospitalier speaks calm courage into me: ‘When you stand before God, you cannot say you weren’t shown mercy.’",kingdom_of_heaven
+182,tests,"I watch the Hospitalier hold steady under chaos; I learn composure is a weapon.",kingdom_of_heaven
+183,approach,"The Hospitalier reminds me: build the defense, not the legend—do the work that saves lives.",kingdom_of_heaven
+184,ordeal,"In the darkest hour, the Hospitalier refuses despair; I borrow his steadiness to keep fighting.",kingdom_of_heaven
+185,integration,"‘If God does not love you, how could you have done all these things that you have done?’—I let that land as permission to forgive myself.",kingdom_of_heaven
+186,reward,"I feel a clean dignity: my actions were real, and that matters more than my doubts.",kingdom_of_heaven
+187,return,"I carry the Hospitalier’s standard back with me: honor isn’t an emotion, it’s a practice.",kingdom_of_heaven
+188,elixir,"I pass on the lesson: mercy and discipline can coexist; you can be fierce without being cruel.",kingdom_of_heaven
+
+189,refusal,"I tell myself the darkness is ‘just stories’—but I feel it watching from the edges.",WAKE
+190,call,"A message arrives from the deep: write, or be written by the nightmare.",WAKE
+191,threshold,"I step into the overlap—reality bends and I accept that the rules have changed.",WAKE
+192,tests,"I learn to survive the loop: light, timing, and focus become my daily training.",WAKE
+193,tests,"The story fights back; every attempt teaches me what the darkness exploits.",WAKE
+194,allies,"I link up with others trapped in the same myth; we trade clues instead of coping alone.",WAKE
+195,approach,"I map the pattern: scenes, triggers, objectives—structure gives me a way through.",WAKE
+196,ordeal,"I face the part of me that uses art as avoidance; I choose responsibility over romance with chaos.",WAKE
+197,ordeal,"I confront the shadow that wears my face; I stop bargaining and name it.",WAKE
+198,reward,"A breakthrough: the narrative snaps—what felt random becomes readable.",WAKE
+199,return,"I bring the clarity back to daylight: I can’t control every frame, but I can choose the next line.",WAKE
+200,integration,"I hold fear without letting it steer; presence becomes brighter than panic.",WAKE
+201,elixir,"I turn the ordeal into a tool: writing as disciplined practice, not escapism.",WAKE
+202,tests,"I stop chasing the perfect ending and start making clean moves under pressure.",WAKE
+203,approach,"I treat the work like a ritual: small consistent actions that keep the darkness from taking ground.",WAKE
+204,integration,"I become the author again—no longer possessed by the plot, but participating consciously.",WAKE
+205,refusal,"I tell myself Gotham isn’t my problem anymore; hiding feels safer than choosing the cowl.",Batman
+206,call,"The city shows me the cost of my comfort—someone has to stand up.",Batman
+207,threshold,"I cross into the underworld of training; fear becomes a teacher instead of a jailer.",Batman
+208,tests,"I learn the discipline behind the symbol: repetition, restraint, and control.",Batman
+209,allies,"I accept guidance from mentors and allies; I stop pretending I can do it alone.",Batman
+210,approach,"I build the tools and the code: the mission needs structure, not ego.",Batman
+211,ordeal,"I face the chaos that can’t be reasoned with; the Joker tests my integrity, not my strength.",Batman
+212,ordeal,"I take the fall so the symbol survives; I choose responsibility over reputation.",Batman
+213,reward,"A hard-won truth: being good isn’t being liked—it’s doing what’s necessary.",Batman
+214,return,"I come back from exile and pain; I move again even when the body protests.",Batman
+215,integration,"I hold the paradox: a symbol can be both mercy and threat—used with intention.",Batman
+216,elixir,"I pass on the lesson: build systems that outlive you; courage is contagious.",Batman
+
+217,refusal,"I cling to comfort and status; I don’t want the world to change me.",samurai
+218,call,"A new land calls me into a conflict I don’t understand; I’m needed where I’m weakest.",samurai
+219,threshold,"I enter the samurai world; my old identity starts to crack.",samurai
+220,tests,"Training strips me down: posture, breath, repetition—no shortcuts.",samurai
+221,allies,"I find respect in those I feared; discipline becomes a bridge.",samurai
+222,approach,"I stop performing and start learning; humility becomes my weapon.",samurai
+223,ordeal,"In battle and loss, I face what my life has been built on; the old story dies.",samurai
+224,reward,"A quiet honor arrives: I can stand in my own skin without applause.",samurai
+225,return,"I return carrying a new standard: presence, duty, and restraint.",samurai
+226,integration,"‘No mind’ becomes real: I act cleanly without the chatter taking the wheel.",samurai
+227,elixir,"I pass on what I learned: mastery is inner stillness under pressure.",samurai
+
+228,refusal,"I want the crown without the cross; I resist surrender and try to control outcomes.",christ
+229,call,"I’m called into the desert of truth: serve, not be served.",christ
+230,threshold,"I step into ministry; the path becomes public and costly.",christ
+231,tests,"Temptations come as shortcuts: power, spectacle, certainty—each one refused.",christ
+232,allies,"I gather imperfect disciples; love becomes practiced, not theoretical.",christ
+233,approach,"I walk toward Jerusalem knowing the cost; courage is obedience.",christ
+234,ordeal,"The crucifixion: everything is stripped away; I endure without abandoning love.",christ
+235,reward,"Resurrection: life returns with meaning; despair is not the final word.",christ
+236,return,"I return to my people with peace, not vengeance; wounds become testimony.",christ
+237,integration,"I embody mercy and truth together; strength becomes gentleness.",christ
+238,elixir,"The commission: carry the message outward—hope made practical.",christ
+
+239,refusal,"I want to stay a kid forever; responsibility feels like a trap.",DBZ
+240,call,"A new threat arrives; my limits are exposed and the work begins.",DBZ
+241,threshold,"I commit to training; the body becomes the dojo and discipline becomes daily.",DBZ
+242,tests,"Every arc is a trial: gravity, technique, timing—failure is data.",DBZ
+243,allies,"I train with rivals and friends; competition becomes collaboration.",DBZ
+244,approach,"I prepare for the big fight: strategy, recovery, and focus—not just hype.",DBZ
+245,ordeal,"I meet an enemy that forces transformation; the old self can’t win.",DBZ
+246,reward,"Power unlocks through sacrifice and love; strength becomes purposeful.",DBZ
+247,return,"I return to ordinary life with new capacity; calm becomes a flex.",DBZ
+248,integration,"I accept that growth is endless; identity is built by reps.",DBZ
+249,elixir,"I teach the next generation: train your spirit as much as your power.",DBZ
+
+250,refusal,"I rage against limits; I want heaven’s status without heaven’s wisdom.",journey_west
+251,call,"A mission appears: protect the pilgrimage—turn chaos into service.",journey_west
+252,threshold,"I’m bound to the path; freedom now means commitment.",journey_west
+253,tests,"Demons, illusions, and ego traps: each one exposes my impatience.",journey_west
+254,allies,"A strange crew forms; difference becomes strength when we stay aligned.",journey_west
+255,approach,"I learn restraint: power without discipline becomes disaster.",journey_west
+256,ordeal,"I face the part of me that wants worship; I choose the work over attention.",journey_west
+257,reward,"A clearer mind emerges: humor and humility replace arrogance.",journey_west
+258,return,"I bring the lesson back: enlightenment is practice, not a trophy.",journey_west
+259,integration,"I hold both mischief and compassion; the trickster becomes a guardian.",journey_west
+260,elixir,"I pass on the teaching: the wild mind can be trained to serve truth.",journey_west
