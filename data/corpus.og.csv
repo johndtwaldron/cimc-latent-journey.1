@@ -1,0 +1,696 @@
+id,stage,spoke,act,text,source,workstream,psych_axis
+1,refusal,3,departure,I keep waiting for the perfect moment to start.,core,core
+2,refusal,3,departure,"I tell myself I'm not ready yet, even though I have enough to begin.",core,core
+3,refusal,3,departure,I delay because starting would make my intentions real.,core,core
+4,refusal,3,departure,I hide behind planning so I don't have to risk failure.,core,core
+5,refusal,3,departure,I keep polishing instead of publishing.,core,core
+6,refusal,3,departure,I avoid the next step because it might expose what I actually want.,core,core
+7,refusal,3,departure,I pretend I'm busy when I'm really afraid.,core,core
+8,refusal,3,departure,I numb out instead of choosing a direction.,core,core
+9,refusal,3,departure,I overthink until the moment passes.,core,core
+10,refusal,3,departure,I wait for external permission instead of committing.,core,core
+11,call,2,departure,Something in me knows the current way of living isn't enough.,core,core
+12,call,2,departure,"I feel a pull toward a truer life, even if I can't explain it.",core,core
+13,call,2,departure,A new possibility appears and I can't unsee it.,core,core
+14,call,2,departure,I sense a mission forming: build something that matters.,core,core
+15,call,2,departure,I get a signal—an invitation to level up.,core,core
+16,call,2,departure,I feel the discomfort that precedes change.,core,core
+17,call,2,departure,I notice a repeating pattern and decide it ends here.,core,core
+18,call,2,departure,I see a path where my skills and values align.,core,core
+19,call,2,departure,I realize the cost of staying the same is higher than changing.,core,core
+20,call,2,departure,I feel a quiet certainty: it's time.,core,core
+21,threshold,5,departure,I take one step even while afraid.,core,core
+22,threshold,5,departure,I choose action over reassurance.,core,core
+23,threshold,5,departure,"I send the message, ship the commit, make the call.",core,core
+24,threshold,5,departure,I cross the line from thinking to doing.,core,core
+25,threshold,5,departure,I stop negotiating with my fear and move anyway.,core,core
+26,threshold,5,departure,I make the first uncomfortable move and survive it.,core,core
+27,threshold,5,departure,I accept that imperfect action is the entrance fee.,core,core
+28,threshold,5,departure,I begin before confidence arrives.,core,core
+29,threshold,5,departure,I commit publicly so I can't retreat easily.,core,core
+30,threshold,5,departure,I let momentum replace motivation.,core,core
+31,tests,6,initiation,"I hit friction and treat it as feedback, not failure.",core,core
+32,tests,6,initiation,I learn by breaking things and fixing them.,core,core
+33,tests,6,initiation,I keep iterating instead of quitting.,core,core
+34,tests,6,initiation,I notice old triggers and practice staying present anyway.,core,core
+35,tests,6,initiation,"I refine the system: smaller steps, clearer inputs.",core,core
+36,tests,6,initiation,I get rejected and stay on the path.,core,core
+37,tests,6,initiation,I feel resistance and choose discipline.,core,core
+38,tests,6,initiation,I stop chasing novelty and do the boring reps.,core,core
+39,tests,6,initiation,"I test assumptions with reality, not mood.",core,core
+40,tests,6,initiation,I build stamina for uncertainty.,core,core
+41,allies,6,initiation,I find people who make the path clearer.,core,core
+42,allies,6,initiation,I ask for help without collapsing my self-respect.,core,core
+43,allies,6,initiation,I learn from mentors but keep my own compass.,core,core
+44,allies,6,initiation,I let supportive people amplify my momentum.,core,core
+45,allies,6,initiation,I collaborate without surrendering my agency.,core,core
+46,allies,6,initiation,I accept guidance while owning the decisions.,core,core
+47,allies,6,initiation,I join a community that raises my standards.,core,core
+48,allies,6,initiation,I build tools that help me think better.,core,core
+49,allies,6,initiation,"I surround myself with builders, not spectators.",core,core
+50,allies,6,initiation,I choose environments that match the man I'm becoming.,core,core
+51,approach,7,initiation,I simplify the plan until it's executable.,core,core
+52,approach,7,initiation,I focus on the one constraint that unlocks progress.,core,core
+53,approach,7,initiation,I remove distractions that keep me fragmented.,core,core
+54,approach,7,initiation,I choose a single direction and allocate energy to it.,core,core
+55,approach,7,initiation,I structure my day so the important work happens first.,core,core
+56,approach,7,initiation,I stop seeking intensity and start seeking consistency.,core,core
+57,approach,7,initiation,"I measure progress with outputs, not feelings.",core,core
+58,approach,7,initiation,I decide what 'done' looks like before I begin.,core,core
+59,approach,7,initiation,I create a repeatable workflow instead of improvising daily.,core,core
+60,approach,7,initiation,I move from ambition to implementation.,core,core
+61,ordeal,8,initiation,Everything falls apart and I learn what matters.,core,core
+62,ordeal,8,initiation,I face the part of me that wants to self-sabotage.,core,core
+63,ordeal,8,initiation,I hit a low and choose not to abandon myself.,core,core
+64,ordeal,8,initiation,I confront shame without letting it steer.,core,core
+65,ordeal,8,initiation,I stop outsourcing my worth and stand on my own.,core,core
+66,ordeal,8,initiation,I tolerate discomfort long enough for it to transform.,core,core
+67,ordeal,8,initiation,I feel grief and keep moving forward.,core,core
+68,ordeal,8,initiation,I accept the cost of growth instead of resenting it.,core,core
+69,ordeal,8,initiation,I let old identities die so new ones can form.,core,core
+70,ordeal,8,initiation,I discover that I can endure more than I thought.,core,core
+71,reward,9,initiation,I get a win that proves the work is real.,core,core
+72,reward,9,initiation,I see evidence: the system is producing results.,core,core
+73,reward,9,initiation,I feel pride without needing anyone else to validate it.,core,core
+74,reward,9,initiation,I notice I'm calmer because I'm aligned.,core,core
+75,reward,9,initiation,I earn confidence through repetition.,core,core
+76,reward,9,initiation,"I experience competence: I can build, test, ship.",core,core
+77,reward,9,initiation,I feel power that comes from integrity.,core,core
+78,reward,9,initiation,I recognize that I am becoming reliable to myself.,core,core
+79,reward,9,initiation,I enjoy the quiet satisfaction of progress.,core,core
+80,reward,9,initiation,I see that my future is being built by my habits.,core,core
+81,return,10,return,I bring what I've learned back into daily life.,core,core
+82,return,10,return,I stop treating growth as a phase and make it a baseline.,core,core
+83,return,10,return,"I integrate the lessons into how I work, love, and live.",core,core
+84,return,10,return,I share the framework in a way that helps others.,core,core
+85,return,10,return,I turn the insights into a practical tool.,core,core
+86,return,10,return,I keep the standards even when no one is watching.,core,core
+87,return,10,return,I choose long-term alignment over short-term comfort.,core,core
+88,return,10,return,I refine the system so it survives busy weeks.,core,core
+89,return,10,return,I build a life that matches the man I claim to be.,core,core
+90,return,10,return,I act like the future is already underway.,core,core
+91,integration,11,return,I stop performing and start listening to myself.,core,core
+92,integration,11,return,I can feel the difference between ego and instinct.,core,core
+93,integration,11,return,I respond instead of react.,core,core
+94,integration,11,return,I let my body lead when my mind spirals.,core,core
+95,integration,11,return,"I treat emotions as signals, not commands.",core,core
+96,integration,11,return,I hold boundaries without hostility.,core,core
+97,integration,11,return,I choose presence over tactics.,core,core
+98,integration,11,return,I trust myself more because I keep promises to myself.,core,core
+99,integration,11,return,I can be intense without being compulsive.,core,core
+100,integration,11,return,I become congruent: my values and actions match.,core,core
+101,elixir,12,return,I return with something useful for others.,core,core
+102,elixir,12,return,I turn my story into a tool someone else can use.,core,core
+103,elixir,12,return,I explain the path without pretending it's easy.,core,core
+104,elixir,12,return,"I teach what I practiced, not what I fantasized.",core,core
+105,elixir,12,return,"I build artifacts—code, notes, systems—that outlast moods.",core,core
+106,elixir,12,return,I model grounded confidence instead of selling hype.,core,core
+107,elixir,12,return,I help others cross their threshold with clarity.,core,core
+108,elixir,12,return,I contribute work that proves my competence.,core,core
+109,elixir,12,return,I share the map while honoring each person's journey.,core,core
+110,elixir,12,return,I leave something behind that makes the world slightly better.,core,core
+111,refusal,3,departure,"I sense the world is staged, but I can’t yet name what’s wrong.",matrix,story
+112,call,2,departure,"A stranger offers a choice: comfort in the story, or truth with consequences.",matrix,story
+113,threshold,5,departure,I choose the red pill: I’d rather know than cope.,matrix,story
+114,threshold,5,departure,The old reality breaks; I realize I was living inside an operating system.,matrix,story
+115,tests,6,initiation,I accept that freedom feels like fear at first.,matrix,story
+116,tests,6,initiation,I train daily: repetition turns chaos into skill.,matrix,story
+117,tests,6,initiation,I meet resistance that wants me asleep; I stop negotiating with it.,matrix,story
+118,tests,6,initiation,"I learn to read the code: patterns, incentives, and hidden rules.",matrix,story
+119,approach,7,initiation,I stop asking ‘am I ready?’ and start asking ‘what’s the next move?’,matrix,story
+120,integration,11,return,I become the kind of person who can hold truth without collapsing.,matrix,story
+121,refusal,3,departure,I feel numb in a life that looks fine on paper.,fight_club,story
+122,refusal,3,departure,I notice I’m buying an identity instead of building one.,fight_club,story
+123,call,2,departure,I meet a shadow-teacher: the part of me that refuses to be domesticated.,fight_club,story
+124,threshold,5,departure,I choose pain over numbness; sensation becomes a doorway back to myself.,fight_club,story
+125,tests,6,initiation,I learn the difference between performance and presence.,fight_club,story
+126,tests,6,initiation,"I stop outsourcing my meaning to approval, status, or romance.",fight_club,story
+127,ordeal,8,initiation,I face the split inside: the actor vs the one who actually wants.,fight_club,story
+128,integration,11,return,I take responsibility for my shadow instead of letting it run the show.,fight_club,story
+129,approach,7,initiation,"I build discipline: small acts of integrity, repeated, become identity.",fight_club,story
+130,return,10,return,I choose creation over destruction: rebuild the self without burning the world.,fight_club,story
+131,refusal,3,departure,"I inherit a story about who I am, and it doesn’t fit anymore.",kingdom_of_heaven,story
+132,call,2,departure,A mentor calls me to a higher standard: ‘be better than your past.’,kingdom_of_heaven,story
+133,threshold,5,departure,I leave the familiar to pursue a harder kind of honor.,kingdom_of_heaven,story
+134,allies,6,initiation,"I learn leadership is service, not dominance.",kingdom_of_heaven,story
+135,ordeal,8,initiation,I hold the line when fear says run.,kingdom_of_heaven,story
+136,integration,11,return,"I choose mercy over ego, even when it costs me.",kingdom_of_heaven,story
+137,reward,9,initiation,I protect people who can’t protect themselves; my values become real.,kingdom_of_heaven,story
+138,tests,6,initiation,I negotiate with power without selling my soul.,kingdom_of_heaven,story
+139,ordeal,8,initiation,I accept loss without losing my integrity.,kingdom_of_heaven,story
+140,return,10,return,"I return changed: not a legend, but a man who keeps his vow.",kingdom_of_heaven,story
+141,refusal,3,departure,"I sense the set is too perfect, but I keep smiling for the cameras.",truman,story
+142,call,2,departure,A crack appears in the world; I can’t unsee that my life might be staged.,truman,story
+143,threshold,5,departure,I test the boundaries of the script and choose truth over comfort.,truman,story
+144,tests,6,initiation,The system pushes back; I learn that freedom requires sustained courage.,truman,story
+145,approach,7,initiation,I stop asking for permission and start planning my exit with calm precision.,truman,story
+146,ordeal,8,initiation,I face the fear designed to keep me small and walk through it anyway.,truman,story
+147,return,10,return,"I step into the unknown: no applause, just a real life I choose.",truman,story
+148,refusal,3,departure,"I tell myself it’s just a dream, because doubt is safer than responsibility.",inception,story
+149,call,2,departure,A mission appears: plant an idea that could change everything.,inception,story
+150,threshold,5,departure,"I accept the deeper layer: to build reality, I must face my own mind.",inception,story
+151,tests,6,initiation,I run drills in layers of pressure; skill replaces panic.,inception,story
+152,allies,6,initiation,I assemble a team where each strength covers another’s weakness.,inception,story
+153,approach,7,initiation,I design the plan down to the timing: structure becomes sanity.,inception,story
+154,ordeal,8,initiation,I confront the memory that sabotages me and refuse to let it steer.,inception,story
+155,integration,11,return,"I choose a grounded inner compass: I can’t control reality, but I can choose integrity.",inception,story
+156,return,10,return,"I come back changed: less attached to certainty, more committed to what I build.",inception,story
+157,refusal,3,departure,"I play along with the story I’m sold, even when it smells like rot.",la_confidential,story
+158,call,2,departure,I see the corruption behind the badge; the truth demands a price.,la_confidential,story
+159,threshold,5,departure,I stop performing loyalty and start investigating what power hides.,la_confidential,story
+160,tests,6,initiation,Every clue creates enemies; I learn to move quietly and verify everything.,la_confidential,story
+161,allies,6,initiation,I find unlikely partners: integrity can be shared even among rivals.,la_confidential,story
+162,ordeal,8,initiation,"I face the cost of truth: reputation, safety, and the comfort of lies.",la_confidential,story
+163,reward,9,initiation,The pattern snaps into focus; I can finally name what’s really happening.,la_confidential,story
+164,return,10,return,I choose justice over image and walk forward with my conscience intact.,la_confidential,story
+165,refusal,3,departure,I cling to ordinary rules because wonder feels like losing control.,alice,story
+166,call,2,departure,I follow the impossible: curiosity becomes the doorway.,alice,story
+167,threshold,5,departure,I fall into the unknown and let the old map dissolve.,alice,story
+168,tests,6,initiation,Nothing behaves ‘properly’; I learn to adapt instead of argue.,alice,story
+169,allies,6,initiation,I meet strange guides and realize wisdom can look eccentric.,alice,story
+170,ordeal,8,initiation,I face the part of me that doubts my right to take up space.,alice,story
+171,integration,11,return,"I remember who I am: not the role, but the chooser.",alice,story
+172,return,10,return,I carry wonder back to the real world and act with more courage.,alice,story
+173,refusal,3,departure,I stay in sepia comfort because color feels too big for me.,oz,story
+174,call,2,departure,A storm lifts me: life interrupts my plan and offers an adventure.,oz,story
+175,threshold,5,departure,I arrive in a strange land and realize I must walk the road myself.,oz,story
+176,allies,6,initiation,I gather companions; each of us wants what we think we lack.,oz,story
+177,tests,6,initiation,We face tricks and threats that test whether we’ll quit or keep moving.,oz,story
+178,ordeal,8,initiation,"The illusion shatters: the ‘wizard’ is just a man, and I must own my power.",oz,story
+179,integration,11,return,"I learn the gift was always within: heart, courage, mind, and home.",oz,story
+180,return,10,return,I go back with a new lens: I can choose my life without needing a savior.,oz,story
+181,allies,6,initiation,"The Hospitalier speaks calm courage into me: ‘When you stand before God, you cannot say you weren’t shown mercy.’",kingdom_of_heaven,story
+182,tests,6,initiation,I watch the Hospitalier hold steady under chaos; I learn composure is a weapon.,kingdom_of_heaven,story
+183,approach,7,initiation,"The Hospitalier reminds me: build the defense, not the legend—do the work that saves lives.",kingdom_of_heaven,story
+184,ordeal,8,initiation,"In the darkest hour, the Hospitalier refuses despair; I borrow his steadiness to keep fighting.",kingdom_of_heaven,story
+185,integration,11,return,"‘If God does not love you, how could you have done all these things that you have done?’—I let that land as permission to forgive myself.",kingdom_of_heaven,story
+186,reward,9,initiation,"I feel a clean dignity: my actions were real, and that matters more than my doubts.",kingdom_of_heaven,story
+187,return,10,return,"I carry the Hospitalier’s standard back with me: honor isn’t an emotion, it’s a practice.",kingdom_of_heaven,story
+188,elixir,12,return,I pass on the lesson: mercy and discipline can coexist; you can be fierce without being cruel.,kingdom_of_heaven,story
+189,refusal,3,departure,I tell myself the darkness is ‘just stories’—but I feel it watching from the edges.,WAKE,story
+190,call,2,departure,"A message arrives from the deep: write, or be written by the nightmare.",WAKE,story
+191,threshold,5,departure,I step into the overlap—reality bends and I accept that the rules have changed.,WAKE,story
+192,tests,6,initiation,"I learn to survive the loop: light, timing, and focus become my daily training.",WAKE,story
+193,tests,6,initiation,The story fights back; every attempt teaches me what the darkness exploits.,WAKE,story
+194,allies,6,initiation,I link up with others trapped in the same myth; we trade clues instead of coping alone.,WAKE,story
+195,approach,7,initiation,"I map the pattern: scenes, triggers, objectives—structure gives me a way through.",WAKE,story
+196,ordeal,8,initiation,I face the part of me that uses art as avoidance; I choose responsibility over romance with chaos.,WAKE,story
+197,ordeal,8,initiation,I confront the shadow that wears my face; I stop bargaining and name it.,WAKE,story
+198,reward,9,initiation,A breakthrough: the narrative snaps—what felt random becomes readable.,WAKE,story
+199,return,10,return,"I bring the clarity back to daylight: I can’t control every frame, but I can choose the next line.",WAKE,story
+200,integration,11,return,I hold fear without letting it steer; presence becomes brighter than panic.,WAKE,story
+201,elixir,12,return,"I turn the ordeal into a tool: writing as disciplined practice, not escapism.",WAKE,story
+202,tests,6,initiation,I stop chasing the perfect ending and start making clean moves under pressure.,WAKE,story
+203,approach,7,initiation,I treat the work like a ritual: small consistent actions that keep the darkness from taking ground.,WAKE,story
+204,integration,11,return,"I become the author again—no longer possessed by the plot, but participating consciously.",WAKE,story
+205,refusal,3,departure,I tell myself Gotham isn’t my problem anymore; hiding feels safer than choosing the cowl.,Batman,story
+206,call,2,departure,The city shows me the cost of my comfort—someone has to stand up.,Batman,story
+207,threshold,5,departure,I cross into the underworld of training; fear becomes a teacher instead of a jailer.,Batman,story
+208,tests,6,initiation,"I learn the discipline behind the symbol: repetition, restraint, and control.",Batman,story
+209,allies,6,initiation,I accept guidance from mentors and allies; I stop pretending I can do it alone.,Batman,story
+210,approach,7,initiation,"I build the tools and the code: the mission needs structure, not ego.",Batman,story
+211,ordeal,8,initiation,"I face the chaos that can’t be reasoned with; the Joker tests my integrity, not my strength.",Batman,story
+212,ordeal,8,initiation,I take the fall so the symbol survives; I choose responsibility over reputation.,Batman,story
+213,reward,9,initiation,A hard-won truth: being good isn’t being liked—it’s doing what’s necessary.,Batman,story
+214,return,10,return,I come back from exile and pain; I move again even when the body protests.,Batman,story
+215,integration,11,return,I hold the paradox: a symbol can be both mercy and threat—used with intention.,Batman,story
+216,elixir,12,return,I pass on the lesson: build systems that outlive you; courage is contagious.,Batman,story
+217,refusal,3,departure,I cling to comfort and status; I don’t want the world to change me.,samurai,story
+218,call,2,departure,A new land calls me into a conflict I don’t understand; I’m needed where I’m weakest.,samurai,story
+219,threshold,5,departure,I enter the samurai world; my old identity starts to crack.,samurai,story
+220,tests,6,initiation,"Training strips me down: posture, breath, repetition—no shortcuts.",samurai,story
+221,allies,6,initiation,I find respect in those I feared; discipline becomes a bridge.,samurai,story
+222,approach,7,initiation,I stop performing and start learning; humility becomes my weapon.,samurai,story
+223,ordeal,8,initiation,"In battle and loss, I face what my life has been built on; the old story dies.",samurai,story
+224,reward,9,initiation,A quiet honor arrives: I can stand in my own skin without applause.,samurai,story
+225,return,10,return,"I return carrying a new standard: presence, duty, and restraint.",samurai,story
+226,integration,11,return,‘No mind’ becomes real: I act cleanly without the chatter taking the wheel.,samurai,story
+227,elixir,12,return,I pass on what I learned: mastery is inner stillness under pressure.,samurai,story
+228,refusal,3,departure,I want the crown without the cross; I resist surrender and try to control outcomes.,christ,story
+229,call,2,departure,"I’m called into the desert of truth: serve, not be served.",christ,story
+230,threshold,5,departure,I step into ministry; the path becomes public and costly.,christ,story
+231,tests,6,initiation,"Temptations come as shortcuts: power, spectacle, certainty—each one refused.",christ,story
+232,allies,6,initiation,"I gather imperfect disciples; love becomes practiced, not theoretical.",christ,story
+233,approach,7,initiation,I walk toward Jerusalem knowing the cost; courage is obedience.,christ,story
+234,ordeal,8,initiation,The crucifixion: everything is stripped away; I endure without abandoning love.,christ,story
+235,reward,9,initiation,Resurrection: life returns with meaning; despair is not the final word.,christ,story
+236,return,10,return,"I return to my people with peace, not vengeance; wounds become testimony.",christ,story
+237,integration,11,return,I embody mercy and truth together; strength becomes gentleness.,christ,story
+238,elixir,12,return,The commission: carry the message outward—hope made practical.,christ,story
+239,refusal,3,departure,I want to stay a kid forever; responsibility feels like a trap.,DBZ,story
+240,call,2,departure,A new threat arrives; my limits are exposed and the work begins.,DBZ,story
+241,threshold,5,departure,I commit to training; the body becomes the dojo and discipline becomes daily.,DBZ,story
+242,tests,6,initiation,"Every arc is a trial: gravity, technique, timing—failure is data.",DBZ,story
+243,allies,6,initiation,I train with rivals and friends; competition becomes collaboration.,DBZ,story
+244,approach,7,initiation,"I prepare for the big fight: strategy, recovery, and focus—not just hype.",DBZ,story
+245,ordeal,8,initiation,I meet an enemy that forces transformation; the old self can’t win.,DBZ,story
+246,reward,9,initiation,Power unlocks through sacrifice and love; strength becomes purposeful.,DBZ,story
+247,return,10,return,I return to ordinary life with new capacity; calm becomes a flex.,DBZ,story
+248,integration,11,return,I accept that growth is endless; identity is built by reps.,DBZ,story
+249,elixir,12,return,I teach the next generation: train your spirit as much as your power.,DBZ,story
+250,refusal,3,departure,I rage against limits; I want heaven’s status without heaven’s wisdom.,journey_west,story
+251,call,2,departure,A mission appears: protect the pilgrimage—turn chaos into service.,journey_west,story
+252,threshold,5,departure,I’m bound to the path; freedom now means commitment.,journey_west,story
+253,tests,6,initiation,"Demons, illusions, and ego traps: each one exposes my impatience.",journey_west,story
+254,allies,6,initiation,A strange crew forms; difference becomes strength when we stay aligned.,journey_west,story
+255,approach,7,initiation,I learn restraint: power without discipline becomes disaster.,journey_west,story
+256,ordeal,8,initiation,I face the part of me that wants worship; I choose the work over attention.,journey_west,story
+257,reward,9,initiation,A clearer mind emerges: humor and humility replace arrogance.,journey_west,story
+258,return,10,return,"I bring the lesson back: enlightenment is practice, not a trophy.",journey_west,story
+259,integration,11,return,I hold both mischief and compassion; the trickster becomes a guardian.,journey_west,story
+260,elixir,12,return,I pass on the teaching: the wild mind can be trained to serve truth.,journey_west,story
+261,refusal,3,departure,"My chest tightens and I call it logic; it’s actually fear of exposure.",core,lmb
+262,refusal,3,departure,"I scroll instead of breathing; the freeze response wears the mask of productivity.",core,lmb
+263,refusal,3,departure,"I over-plan the feature because shipping would make the feedback real.",core,career
+264,call,2,departure,"The body signals before the mind agrees: shallow breath means something must change.",core,lmb
+265,call,2,departure,"A failing test suite shows me where discipline is missing; the bug is instructional.",core,career
+266,call,2,departure,"I realize the relationship pattern repeats; the common variable is my avoidance.",core,dating
+267,threshold,5,departure,"I push the commit even though my stomach flips; action recalibrates the nervous system.",core,career
+268,threshold,5,departure,"I state a boundary calmly; my voice shakes but I don’t retract it.",core,dating
+269,threshold,5,departure,"I choose the workout when the mind negotiates; the body crosses first.",core,fitness
+270,tests,6,initiation,"An incident hits production; I stay with the logs instead of blaming people.",core,career
+271,tests,6,initiation,"I feel the urge to fawn; I breathe and return to center before replying.",core,lmb
+272,tests,6,initiation,"I iterate the release plan; constraints refine the architecture.",core,career
+273,allies,6,initiation,"A mentor critiques my draft; I integrate the signal without collapsing.",core,career
+274,allies,6,initiation,"I choose friends who challenge my delusion, not those who soothe it.",core,lmb
+275,approach,7,initiation,"I define ‘done’ for this sprint; ambiguity is replaced with criteria.",core,career
+276,approach,7,initiation,"I design rituals—sleep, lifting, journaling—that reduce chaos before it starts.",core,fitness
+277,ordeal,8,initiation,"I sit in the urge to self-sabotage and refuse to act it out.",core,lmb
+278,ordeal,8,initiation,"A relationship ends; I grieve without rewriting the story to make me innocent.",core,dating
+279,ordeal,8,initiation,"The deploy fails publicly; I own the mistake and draft the postmortem.",core,career
+280,reward,9,initiation,"My breath deepens under pressure; composure becomes embodied proof.",core,lmb
+281,reward,9,initiation,"The build pipeline turns green; repetition is now trust.",core,career
+282,reward,9,initiation,"I can say no without anger; that is new power.",core,dating
+283,return,10,return,"I turn the debugging playbook into onboarding material for the next engineer.",core,career
+284,return,10,return,"I model clean boundaries so others feel safer to hold their own.",core,dating
+285,integration,11,return,"I notice activation in the chest and choose response over reaction.",core,lmb
+286,integration,11,return,"Discipline feels less dramatic; consistency replaces intensity.",core,fitness
+287,elixir,12,return,"I publish the framework I tested in private; artifacts replace performance.",core,career
+288,elixir,12,return,"I speak about failure without glamorizing it; clarity becomes service.",core,lmb
+289,elixir,12,return,"I help someone else ship their first uncomfortable commit.",core,career
+290,approach,7,initiation,"I constrain the scope instead of expanding ambition; focus is mercy.",core,career
+291,tests,6,initiation,"I track triggers like metrics; awareness becomes observability.",core,lmb
+292,ordeal,8,initiation,"I forgive myself for not knowing sooner; shame loses its leverage.",core,spiritual
+293,reward,9,initiation,"Integrity feels lighter than image management; I choose it again.",core,spiritual
+294,return,10,return,"I carry the lesson into Monday; growth survives the calendar.",core,lmb
+295,elixir,12,return,"I build systems—code, habits, vows—that outlast mood swings.",core,lmb
+
+296,refusal,3,departure,"I wake up to the same mental alarm; the loop is familiar, not fated.",groundhog_day,story
+297,refusal,3,departure,"I call it realism, but it’s resignation dressed as wisdom.",groundhog_day,lmb
+298,refusal,3,departure,"I tell myself nothing matters; it’s a shield against disappointment.",groundhog_day,spiritual
+299,refusal,3,departure,"I keep reliving February 2nd because part of me is afraid of February 3rd.",groundhog_day,lmb
+300,call,2,departure,"The question lands: what if the repetition is asking me to change, not escape?",groundhog_day,story
+301,call,2,departure,"I notice the ‘same house, same stress, same echo’ pattern and stop calling it normal.",groundhog_day,lmb
+302,call,2,departure,"I see the split: what’s my weather vs what isn’t mine to control.",groundhog_day,lmb
+303,call,2,departure,"I realize growth isn’t a lever to pull; it’s a path to walk.",groundhog_day,spiritual
+304,allies,6,initiation,"A mentor-frame appears: a compassionate viewer can name what I’m doing without shaming me.",groundhog_day,lmb
+305,allies,6,initiation,"Rita becomes a mirror: love that refuses manipulation forces honesty.",groundhog_day,story
+306,tests,6,initiation,"I try the ‘no consequences’ life and discover indulgence still feels empty.",groundhog_day,story
+307,tests,6,initiation,"I watch my mind bargain—‘if only X, then peace’—and label it as control-seeking.",groundhog_day,lmb
+308,tests,6,initiation,"I practice craft to replace coping: read, train, build, repeat.",groundhog_day,lmb
+309,approach,7,initiation,"I stop auditioning for a role I already lost; I define growth without an audience.",groundhog_day,dating
+310,approach,7,initiation,"I set ‘one small real-world action’ as the exit ramp from over-analysis.",groundhog_day,lmb
+311,approach,7,initiation,"I narrow the goal to presence: show up cleanly, regardless of outcome.",groundhog_day,lmb
+312,ordeal,8,initiation,"I hit the dark solution—self-destruction fantasies—then see they don’t end the loop.",groundhog_day,story
+313,ordeal,8,initiation,"I grieve the story that died and refuse to rewrite it into vindication.",groundhog_day,lmb
+314,ordeal,8,initiation,"I face the humiliation of not getting the grade I wanted after passing the test.",groundhog_day,lmb
+315,ordeal,8,initiation,"I accept the limits: I cannot resurrect the past by force of will.",groundhog_day,spiritual
+316,reward,9,initiation,"I feel relief in surrender: ‘I’m not the god’ becomes nervous-system peace.",groundhog_day,spiritual
+317,reward,9,initiation,"I notice integrity is lighter than image management.",groundhog_day,lmb
+318,reward,9,initiation,"Service breaks the spell: generosity without a receipt restores meaning.",groundhog_day,spiritual
+319,return,10,return,"I carry the lesson into ordinary days: the calendar doesn’t cancel the vow.",groundhog_day,lmb
+320,return,10,return,"I stop using one person as the measuring stick for whether my growth was worth it.",groundhog_day,dating
+321,return,10,return,"I bless and release: gratitude without a covert contract.",groundhog_day,spiritual
+322,integration,11,return,"I can hold the thought ‘if she saw me now’ without letting it steer the ship.",groundhog_day,lmb
+323,integration,11,return,"Presence replaces tactics; I choose the next honest line, not the perfect script.",groundhog_day,lmb
+324,integration,11,return,"I treat journaling as a commentary track that must end in action.",groundhog_day,lmb
+325,elixir,12,return,"Protocol: scene, commentary, one small action—each day advances one frame.",groundhog_day,lmb
+326,elixir,12,return,"I build artifacts instead of fantasies: habits, code, vows, proof-of-work.",groundhog_day,career
+327,refusal,3,departure,"I optimize myself for someone’s love and feel it turn uncanny.",groundhog_day,dating
+328,tests,6,initiation,"I notice how ‘trying too hard’ leaks neediness even when the growth is real.",groundhog_day,dating
+329,approach,7,initiation,"I anchor improvement in vocation and integrity, not in winning someone back.",groundhog_day,spiritual
+330,ordeal,8,initiation,"A creator’s illness reminds me: meaning-making doesn’t grant immunity from pain.",groundhog_day,spiritual
+331,reward,9,initiation,"I choose grace as a response to being blindsided, not as a bargain for safety.",groundhog_day,spiritual
+332,return,10,return,"I meet the next crossroads as the man who walked through the storm, not the boy who hoped to be spared.",groundhog_day,lmb
+333,integration,11,return,"I accept uncertainty as weather; I still choose my posture, my breath, my next move.",groundhog_day,lmb
+334,elixir,12,return,"I bring back a simple creed: I don’t control outcomes; I control how I show up.",groundhog_day,lmb
+335,elixir,12,return,"The loop ends when love stops extracting and starts giving.",groundhog_day,spiritual
+336,refusal,3,departure,"I confuse my public myth with my real self and start living for the rumor.",wake_scratch,story
+337,refusal,3,departure,"I let other people’s stories draft my identity, then call it ‘being realistic.’",wake_scratch,lmb
+338,refusal,3,departure,"I hide from the work because I’m afraid the world will misread me anyway.",wake_scratch,lmb
+339,call,2,departure,"A darker double appears: the part of me shaped by fear, gossip, and projection.",wake_scratch,story
+340,call,2,departure,"I realize reputation is a force: collective belief can write a mask onto me.",wake_scratch,spiritual
+341,call,2,departure,"I see the core threat: an inner demon uses my name to open a door I already tried to close.",wake_scratch,story
+342,threshold,5,departure,"I choose authorship over anxiety: I stop negotiating with the narrative and act.",wake_scratch,lmb
+343,threshold,5,departure,"I accept that the story world has rules—symbols, exchanges, consequences—and I step in anyway.",wake_scratch,story
+344,tests,6,initiation,"I notice how a single rumor can become a whole costume if I keep wearing it.",wake_scratch,lmb
+345,tests,6,initiation,"I track my triggers like an investigator: what makes the double stronger?",wake_scratch,lmb
+346,tests,6,initiation,"I learn that ‘dark presence’ thrives on ambiguity; clarity is a form of light.",wake_scratch,spiritual
+347,tests,6,initiation,"I separate the true signal from the noise: not every accusation is data.",wake_scratch,lmb
+348,allies,6,initiation,"A loved one sees the real me and reflects it back without feeding my ego.",wake_scratch,story
+349,allies,6,initiation,"An ally’s testimony becomes medicine: truth spoken with love weakens the false legend.",wake_scratch,spiritual
+350,allies,6,initiation,"I accept help to anchor reality: a witness is protection against self-mythologizing.",wake_scratch,lmb
+351,approach,7,initiation,"I build a ‘Sunrise’ artifact: a clean record of who I am when I’m not performing.",wake_scratch,career
+352,approach,7,initiation,"I replace image management with proof-of-work; reality becomes harder to distort.",wake_scratch,career
+353,approach,7,initiation,"I stop feeding the urban legend—no more compulsive explaining, no more reactive posts.",wake_scratch,lmb
+354,approach,7,initiation,"I prepare for the showdown by tightening my inner criteria: integrity over applause.",wake_scratch,spiritual
+355,ordeal,8,initiation,"I face the suit: the persona built from headlines, shame, and projection.",wake_scratch,lmb
+356,ordeal,8,initiation,"I confront the fact that my shadow can wear my face and still not be me.",wake_scratch,story
+357,ordeal,8,initiation,"I resist the temptation to become what they fear; I refuse the ‘serial killer’ script.",wake_scratch,lmb
+358,ordeal,8,initiation,"I accept the law of exchange: to rescue what I love, I must sacrifice the mask.",wake_scratch,spiritual
+359,reward,9,initiation,"The illusion burns: when the light hits it, the false self can’t hold form.",wake_scratch,story
+360,reward,9,initiation,"I feel relief when the costume falls away; the body recognizes truth as safety.",wake_scratch,lmb
+361,reward,9,initiation,"I learn the paradox: vulnerability is how you defeat a myth that feeds on secrecy.",wake_scratch,spiritual
+362,return,10,return,"I come back to ordinary life wearing the plaid: simple, grounded, untheatrical.",wake_scratch,lmb
+363,return,10,return,"I stop trying to control every opinion; I focus on being consistent in daylight.",wake_scratch,spiritual
+364,return,10,return,"I keep the door closed with routine: sleep, training, work—structure as protection.",wake_scratch,fitness
+365,integration,11,return,"I can hear the rumor-brain and not obey it; I choose the next clean line.",wake_scratch,lmb
+366,integration,11,return,"I hold both truths: I have darkness, and I am not only my darkness.",wake_scratch,spiritual
+367,integration,11,return,"I treat reputation like weather: note it, prepare, but don’t worship it.",wake_scratch,lmb
+368,elixir,12,return,"I bring back a method: make a public artifact of truth that quietly burns the lie.",wake_scratch,career
+369,elixir,12,return,"I teach the lesson: collective belief can create monsters—so choose what you amplify.",wake_scratch,spiritual
+370,elixir,12,return,"I leave a protocol: identify the double, stop feeding it, ship truth in small consistent frames.",wake_scratch,lmb
+
+371,refusal,3,departure,"I want home, but duty keeps rewriting my plans.",gladiator,story
+372,refusal,3,departure,"I tell myself honor is pointless because death erases everything.",gladiator,spiritual
+373,refusal,3,departure,"I cling to rank and reputation because it’s all I think I am.",gladiator,lmb
+374,call,2,departure,"A higher standard appears: lead with courage and care, not ego.",gladiator,story
+375,call,2,departure,"I feel the pull toward simple desires—home, family, harvest—over glory.",gladiator,lmb
+376,call,2,departure,"A question lands: if life ends in dust, what makes it meaningful?",gladiator,spiritual
+377,threshold,5,departure,"The wheel turns: I lose everything and still have to choose my posture.",gladiator,spiritual
+378,threshold,5,departure,"I’m forced into the arena; I decide to survive without surrendering my soul.",gladiator,story
+379,tests,6,initiation,"I learn to command my inner state when I can’t command the world.",gladiator,spiritual
+380,tests,6,initiation,"I take the dirt in my hand and remember: mortality is a compass.",gladiator,lmb
+381,tests,6,initiation,"I lead from the front; men trust what they can feel in my presence.",gladiator,story
+382,tests,6,initiation,"I reject manipulation: praise without integrity is poison.",gladiator,spiritual
+383,allies,6,initiation,"A crew forms in captivity; brotherhood becomes the new home.",gladiator,story
+384,allies,6,initiation,"A mentor teaches the rule: win the crowd to buy time and leverage.",gladiator,career
+385,allies,6,initiation,"A witness reminds me who I was before the world broke me.",gladiator,lmb
+386,approach,7,initiation,"I build quiet influence inside the system that enslaves me.",gladiator,career
+387,approach,7,initiation,"I stop living for vengeance alone; I choose a cause bigger than my pain.",gladiator,spiritual
+388,approach,7,initiation,"I define Rome as a soul, not a spectacle; vision becomes resistance.",gladiator,story
+389,ordeal,8,initiation,"I face the tyrant and proclaim my true name in public.",gladiator,story
+390,ordeal,8,initiation,"I feel grief and rage, but I refuse to become the evil I fight.",gladiator,lmb
+391,ordeal,8,initiation,"The false brother offers a devil’s bargain; I refuse the shortcut.",gladiator,spiritual
+392,reward,9,initiation,"Identity returns: I remember my vows and my standard.",gladiator,lmb
+393,reward,9,initiation,"I discover power that isn’t bought: dignity under pressure.",gladiator,spiritual
+394,reward,9,initiation,"My presence rallies others; virtue spreads like contagion.",gladiator,story
+395,return,10,return,"I use my final leverage to free others and restore a better order.",gladiator,spiritual
+396,return,10,return,"I pass the mission forward: honor is practiced, not claimed.",gladiator,lmb
+397,integration,11,return,"I hold mortality and meaning together; I act as if deeds echo beyond me.",gladiator,spiritual
+398,integration,11,return,"I keep my hands in the dirt—grounded, simple, uncorrupted by applause.",gladiator,lmb
+399,elixir,12,return,"I leave an ethic: strength and honor are real when they cost you something.",gladiator,spiritual
+400,elixir,12,return,"I bring back a model of manhood: calm leadership, disciplined courage, humble love.",gladiator,lmb
+
+401,refusal,3,departure,"I obey the script—grades, manners, achievement—while my inner life goes quiet.",dead_poets,story
+402,refusal,3,departure,"I trade curiosity for approval and call it ‘being responsible.’",dead_poets,lmb
+403,refusal,3,departure,"I feel the ache of meaninglessness but keep performing so no one worries.",dead_poets,spiritual
+404,call,2,departure,"A teacher arrives who treats life as art: ‘What will your verse be?’",dead_poets,story
+405,call,2,departure,"I hear ‘carpe diem’ and realize my passivity has a cost.",dead_poets,lmb
+406,call,2,departure,"I see that the goal isn’t success—it’s aliveness.",dead_poets,spiritual
+407,threshold,5,departure,"I step out of the row and risk looking strange to feel the truth.",dead_poets,story
+408,threshold,5,departure,"I speak one honest line aloud; the voice that was trapped gets air.",dead_poets,lmb
+409,threshold,5,departure,"I choose experience over reputation, even if it disrupts the plan.",dead_poets,spiritual
+410,allies,6,initiation,"A circle forms: brotherhood gives courage when the institution demands silence.",dead_poets,story
+411,allies,6,initiation,"A mentor models embodied conviction—he lives what he teaches.",dead_poets,spiritual
+412,allies,6,initiation,"Friends mirror the dormant spark in me; desire becomes permission.",dead_poets,lmb
+413,tests,6,initiation,"I test the boundary: how much of myself can I reveal before I’m punished?",dead_poets,lmb
+414,tests,6,initiation,"I notice the fawn reflex—please the father, please the school, disappear the self.",dead_poets,lmb
+415,tests,6,initiation,"I practice courage as repetition: small acts of defiance build identity.",dead_poets,spiritual
+416,approach,7,initiation,"I stop asking for a perfect path and choose the next true action.",dead_poets,lmb
+417,approach,7,initiation,"I prepare to face authority without collapsing: clarity, calm, and evidence.",dead_poets,career
+418,approach,7,initiation,"I define ‘extraordinary’ as lived honesty, not dramatic gestures.",dead_poets,spiritual
+419,ordeal,8,initiation,"I meet the double bind: obey the role and die inside, or speak up and risk exile.",dead_poets,story
+420,ordeal,8,initiation,"A father’s will becomes a cage; I feel what it costs to have no voice.",dead_poets,lmb
+421,ordeal,8,initiation,"I witness how repression can turn lethal; the soul can die before the body does.",dead_poets,spiritual
+422,reward,9,initiation,"I feel the first clean pride: I acted from the self, not the audience.",dead_poets,lmb
+423,reward,9,initiation,"I learn that passion isn’t childish—it’s the engine of meaning.",dead_poets,spiritual
+424,reward,9,initiation,"I see how one brave act spreads: courage becomes contagious in a room.",dead_poets,story
+425,return,10,return,"I bring the lesson into the ordinary: speak the truth early, not at the breaking point.",dead_poets,lmb
+426,return,10,return,"I stop outsourcing my life plan; I own the trade-offs and make the choice.",dead_poets,career
+427,return,10,return,"I keep the art alive under routine: reading, training, writing—small daily seizing.",dead_poets,fitness
+428,integration,11,return,"I can feel the urge to conform and still choose my verse.",dead_poets,lmb
+429,integration,11,return,"I hold grief without turning it into cynicism; meaning survives tragedy.",dead_poets,spiritual
+430,elixir,12,return,"I leave a standard: don’t live as a proxy for others—build a life you can stand behind.",dead_poets,spiritual
+431,elixir,12,return,"I pass on a protocol: find the mentor, find the circle, take the small brave step today.",dead_poets,lmb
+
+432,refusal,3,departure,"I’m ‘Strider’ because accepting the crown feels like accepting the burden of my bloodline.",aragorn,story
+433,refusal,3,departure,"I downplay my gifts so I don’t have to risk leadership.",aragorn,lmb
+434,refusal,3,departure,"I confuse humility with hiding; I call it virtue but it’s fear of responsibility.",aragorn,spiritual
+435,call,2,departure,"A higher calling appears: lead not for power, but for service.",aragorn,spiritual
+436,call,2,departure,"I’m reminded: the heir is not the same as the failure who came before.",aragorn,story
+437,call,2,departure,"The world needs a king; I feel the pull toward disciplined authority.",aragorn,lmb
+438,threshold,5,departure,"I step forward in danger and become a signal of safety for those behind me.",aragorn,story
+439,threshold,5,departure,"I choose action without ego—move first, explain later.",aragorn,lmb
+440,threshold,5,departure,"I accept solitude as training rather than exile.",aragorn,spiritual
+441,tests,6,initiation,"I stay calm when others panic; composure becomes a form of leadership.",aragorn,lmb
+442,tests,6,initiation,"I take the hard road without dramatizing it; duty is quiet.",aragorn,spiritual
+443,tests,6,initiation,"I refuse shortcuts that would corrupt the mission, even if they flatter my pride.",aragorn,spiritual
+444,allies,6,initiation,"I earn trust through deeds; respect follows reliability.",aragorn,career
+445,allies,6,initiation,"I hold the fellowship together when it starts to fracture: unity is a discipline.",aragorn,story
+446,allies,6,initiation,"I treat rivals with dignity; I don’t need dominance to lead.",aragorn,lmb
+447,approach,7,initiation,"I take the mantle reluctantly but decisively; leadership becomes chosen, not inherited.",aragorn,spiritual
+448,approach,7,initiation,"I tighten my inner standard: no reactive pride, no self-pity—only the next right move.",aragorn,lmb
+449,approach,7,initiation,"I prepare for war by strengthening the bonds, not the image.",aragorn,career
+450,approach,7,initiation,"I keep my hands on the map: logistics, timing, and clear intent under pressure.",aragorn,career
+451,ordeal,8,initiation,"I face the fear: ‘What if I become Isildur?’ and still choose the path.",aragorn,spiritual
+452,ordeal,8,initiation,"I meet the temptation of power and refuse it; the ring is my shadow test.",aragorn,spiritual
+453,ordeal,8,initiation,"I risk being misunderstood and lead anyway; approval is not the mission.",aragorn,lmb
+454,reward,9,initiation,"I feel a clean authority: strength without cruelty.",aragorn,lmb
+455,reward,9,initiation,"Hope spreads because I hold the line; steadiness becomes contagious.",aragorn,story
+456,reward,9,initiation,"I learn that true masculinity is ordered: protect, create, serve, love.",aragorn,spiritual
+457,return,10,return,"I return to the city as the same man—just finally named.",aragorn,story
+458,return,10,return,"I stop avoiding the role and start embodying it daily: small duties, kept promises.",aragorn,lmb
+459,return,10,return,"I lead in daylight with consistency; reputation becomes a byproduct, not a target.",aragorn,career
+460,integration,11,return,"I can feel grief, tenderness, and rage without losing my center.",aragorn,lmb
+461,integration,11,return,"I balance solitude and brotherhood; inner mastery supports outer love.",aragorn,spiritual
+462,integration,11,return,"I become ‘king’ without losing ‘ranger’: power stays grounded in humility.",aragorn,spiritual
+463,elixir,12,return,"I leave a model: reluctant authority, fierce protection, gentle dignity.",aragorn,lmb
+464,elixir,12,return,"I pass on the creed: be worthy of the crown before you ever wear it.",aragorn,spiritual
+465,elixir,12,return,"I teach men to stop begging for status and start building character that others can feel.",aragorn,lmb
+466,allies,6,initiation,"I honor women without manipulation: love that wills the good of the other.",aragorn,dating
+467,tests,6,initiation,"I reject lust as leadership; desire is real but it doesn’t steer the mission.",aragorn,dating
+468,approach,7,initiation,"I choose the long love: sacrifice now so the other can flourish.",aragorn,dating
+469,return,10,return,"I keep romance clean—no triangulation, no ego games—only commitment and care.",aragorn,dating
+470,elixir,12,return,"I leave a dating standard: strength is calm boundaries plus reverence for the feminine.",aragorn,dating
+471,refusal,3,departure,"I sense the Force, but I keep trying to control it with my mind.",star_wars,lmb
+472,refusal,3,departure,"I want power to feel safe, and I call it ‘justice.’",star_wars,spiritual
+473,refusal,3,departure,"I mistake emotional suppression for peace.",star_wars,lmb
+474,refusal,3,departure,"I trust the institution’s code more than the living signal in my body.",star_wars,career
+475,refusal,3,departure,"I keep waiting for a master to ‘make me ready’ instead of training today.",star_wars,fitness
+476,call,2,departure,"A mentor-frame appears: power without compassion is a trap.",star_wars,spiritual
+477,call,2,departure,"I notice fear underneath my love: I’m terrified of losing what I can’t control.",star_wars,lmb
+478,call,2,departure,"The question lands: am I seeking peace, or seeking control that feels like peace?",star_wars,spiritual
+479,call,2,departure,"I see the pattern: when I rush, I lose presence.",star_wars,lmb
+480,call,2,departure,"I realize the ‘dark side’ isn’t a monster; it’s my unowned fear wearing armor.",star_wars,spiritual
+481,threshold,5,departure,"I accept training as humility: slow reps, patience, breath.",star_wars,fitness
+482,threshold,5,departure,"I stop chasing a dramatic breakthrough and commit to daily practice.",star_wars,lmb
+483,threshold,5,departure,"I enter the cave: I’m willing to meet what I’ve been avoiding.",star_wars,spiritual
+484,threshold,5,departure,"I choose the hard truth: the enemy might be my own face behind the mask.",star_wars,lmb
+485,tests,6,initiation,"I get impatient and notice it’s just ego trying to outrun discomfort.",star_wars,lmb
+486,tests,6,initiation,"I practice being present: ‘never my mind on where I was’ becomes a daily drill.",star_wars,spiritual
+487,tests,6,initiation,"I learn that calm first, then action—passivity becomes timing.",star_wars,lmb
+488,tests,6,initiation,"I watch fear amplify in my chest and choose the next clean breath.",star_wars,lmb
+489,tests,6,initiation,"I meet the temptation to strike first; I label it ‘the illusion of control.’",star_wars,spiritual
+490,tests,6,initiation,"I notice how quickly love can turn into possession if I’m activated.",star_wars,dating
+491,tests,6,initiation,"I see how shame and rejection make me reach for authoritarian certainty.",star_wars,spiritual
+492,tests,6,initiation,"I practice restraint: strength without restraint is just panic with a sword.",star_wars,lmb
+493,allies,6,initiation,"A true mentor doesn’t feed my ego; he trains my patience.",star_wars,spiritual
+494,allies,6,initiation,"I find the Qui-Gon archetype: intuition, compassion, and refusal to be owned by bureaucracy.",star_wars,story
+495,allies,6,initiation,"I accept witnesses who reflect the real me back when rumors distort.",star_wars,lmb
+496,allies,6,initiation,"I build a circle that values compassion over status.",star_wars,lmb
+497,allies,6,initiation,"I let guidance land without needing to argue for my image.",star_wars,career
+498,approach,7,initiation,"I map the trap: the ‘triangle’—authority above, wounded father, tempted son.",star_wars,story
+499,approach,7,initiation,"I prepare for the test by tightening my inner criteria: compassion first.",star_wars,spiritual
+500,approach,7,initiation,"I stop confusing ‘order’ with ‘balance’—balance is living responsiveness.",star_wars,spiritual
+501,approach,7,initiation,"I treat my nervous system like a Jedi temple: keep it clean or it turns political.",star_wars,lmb
+502,approach,7,initiation,"I plan for chaos instead of trying to dominate it.",star_wars,career
+503,approach,7,initiation,"I choose to lead myself through uncertainty rather than demand certainty.",star_wars,lmb
+504,ordeal,8,initiation,"I feel rage rise, and I see how ‘righteous’ hate still burns the same.",star_wars,spiritual
+505,ordeal,8,initiation,"I watch myself become what I’m fighting and I stop mid-swing.",star_wars,lmb
+506,ordeal,8,initiation,"I face the attachment wound: fear of loss pretending to be love.",star_wars,lmb
+507,ordeal,8,initiation,"I confront the moment of execution—when I justify a line I can’t un-cross.",star_wars,spiritual
+508,ordeal,8,initiation,"I feel the humiliation of not being ‘made master’ and notice the ego fracture.",star_wars,career
+509,ordeal,8,initiation,"I see how institutions can weaponize ‘duty’ while quietly asking for deceit.",star_wars,career
+510,ordeal,8,initiation,"I face the moral algebra: millions harmed, and yet the human behind the mask remains.",star_wars,spiritual
+511,ordeal,8,initiation,"I feel the urge to kneel to the villain just to stop the inner conflict.",star_wars,lmb
+512,reward,9,initiation,"I recognize the key insight: a Jedi’s true power is letting go.",star_wars,spiritual
+513,reward,9,initiation,"I feel peace when I stop trying to force outcomes.",star_wars,spiritual
+514,reward,9,initiation,"I learn the difference: passion consumes, compassion frees.",star_wars,spiritual
+515,reward,9,initiation,"I see that the Force repeats the lesson until I finally learn it.",star_wars,lmb
+516,reward,9,initiation,"I notice my body relax when I choose mercy over domination.",star_wars,lmb
+517,return,10,return,"I throw away the weapon: I refuse to win the wrong way.",star_wars,spiritual
+518,return,10,return,"I stop trying to control perception; I focus on consistent deeds.",star_wars,lmb
+519,return,10,return,"I rebuild the ‘order’ from the inside: compassion as the operating system.",star_wars,career
+520,return,10,return,"I lead with calm clarity; my presence becomes the proof.",star_wars,lmb
+521,return,10,return,"I refuse the cycle: I won’t repeat my father’s mistake just to feel strong.",star_wars,story
+522,integration,11,return,"I can feel fear of loss without turning it into possession.",star_wars,dating
+523,integration,11,return,"I hold grief without needing vengeance to justify it.",star_wars,spiritual
+524,integration,11,return,"I accept that love is freedom, not control.",star_wars,spiritual
+525,integration,11,return,"I practice inner peace as a skill: patience, presence, and restraint.",star_wars,fitness
+526,integration,11,return,"I stop calling rigidity ‘discipline’—real discipline stays compassionate.",star_wars,lmb
+527,elixir,12,return,"I bring back the creed: compassion is the highest form of strength.",star_wars,spiritual
+528,elixir,12,return,"I pass on a warning: pride blinds institutions long before they collapse.",star_wars,career
+529,elixir,12,return,"I leave a protocol: notice the fear, name the control-impulse, choose the merciful next move.",star_wars,lmb
+530,elixir,12,return,"I teach the paradox: you win by refusing to become the thing you hate.",star_wars,spiritual
+531,refusal,3,departure,"I decorate my life to look successful while my soul stays sleepless.",fight_club_revisited,lmb
+532,refusal,3,departure,"I buy identities off a catalogue and wonder why I feel empty.",fight_club_revisited,story
+533,refusal,3,departure,"I substitute meaning with status, likes, and aesthetics.",fight_club_revisited,lmb
+534,refusal,3,departure,"I process pain as spreadsheets and call it ‘professionalism.’",fight_club_revisited,career
+535,refusal,3,departure,"I numb out to survive, then resent the numbness.",fight_club_revisited,lmb
+536,call,2,departure,"Insomnia becomes a message: the false life can’t let me rest.",fight_club_revisited,spiritual
+537,call,2,departure,"I go looking for real feeling and end up borrowing suffering.",fight_club_revisited,lmb
+538,call,2,departure,"I realize the strongest addiction isn’t pleasure—it’s numbness.",fight_club_revisited,spiritual
+539,call,2,departure,"A shadow-teacher appears: the part of me that refuses domestication.",fight_club_revisited,story
+540,call,2,departure,"I hear the diagnosis: my great war is spiritual, not social.",fight_club_revisited,spiritual
+541,threshold,5,departure,"I accept pain as a doorway back to presence—sensation over sedation.",fight_club_revisited,lmb
+542,threshold,5,departure,"I let my constructed identity burn so something real can breathe.",fight_club_revisited,spiritual
+543,threshold,5,departure,"I stop asking what I should be and start meeting what I am.",fight_club_revisited,lmb
+544,tests,6,initiation,"I confront the persona: the mask that makes a good impression while hiding the self.",fight_club_revisited,spiritual
+545,tests,6,initiation,"I notice how quickly ‘freedom’ can become another performance.",fight_club_revisited,lmb
+546,tests,6,initiation,"I learn the shadow doesn’t vanish when ignored—it grows denser.",fight_club_revisited,spiritual
+547,tests,6,initiation,"I see my shadow traits as energy to integrate, not an enemy to exile.",fight_club_revisited,lmb
+548,tests,6,initiation,"I watch belonging seduce men with empty vaults; hunger joins tribes.",fight_club_revisited,story
+549,tests,6,initiation,"I notice how rules multiply when fear takes over a movement.",fight_club_revisited,career
+550,allies,6,initiation,"A brotherhood forms: men seeking meaning in a world that numbed them.",fight_club_revisited,story
+551,allies,6,initiation,"A mirror-woman appears: she exposes my fraud and wakes my feeling.",fight_club_revisited,dating
+552,allies,6,initiation,"I accept witnesses who see me without feeding my ego.",fight_club_revisited,lmb
+553,approach,7,initiation,"I ask the real question: what am I willing to suffer for—and why?",fight_club_revisited,spiritual
+554,approach,7,initiation,"I recognize initiation hunger: without rites, men invent them.",fight_club_revisited,story
+555,approach,7,initiation,"I plan to channel aggression into craft: lift, build, ship—don’t vandalize.",fight_club_revisited,career
+556,approach,7,initiation,"I tighten criteria: authenticity without destruction, freedom without cult.",fight_club_revisited,spiritual
+557,ordeal,8,initiation,"I meet the split: the compliant worker vs the anarchist savior.",fight_club_revisited,story
+558,ordeal,8,initiation,"I realize the shadow can colonize me if I worship it as ‘truth.’",fight_club_revisited,spiritual
+559,ordeal,8,initiation,"I see radicalization: anger given structure becomes obedience.",fight_club_revisited,story
+560,ordeal,8,initiation,"I face the cost: when a friend dies, ideology tries to turn him into a symbol.",fight_club_revisited,spiritual
+561,ordeal,8,initiation,"I watch ‘liberation’ become dehumanizing; the revolution mirrors the prison.",fight_club_revisited,spiritual
+562,reward,9,initiation,"I learn shadow integration: dialogue, not domination.",fight_club_revisited,spiritual
+563,reward,9,initiation,"I reclaim emotion without outsourcing it to a mask.",fight_club_revisited,lmb
+564,reward,9,initiation,"I see projection clearly: what I externalize is usually mine.",fight_club_revisited,spiritual
+565,return,10,return,"I stop using rage as identity and start using it as fuel for disciplined action.",fight_club_revisited,lmb
+566,return,10,return,"I rebuild my life around real connection, not curated self-image.",fight_club_revisited,dating
+567,return,10,return,"I choose craft over chaos: systems that outlast moods.",fight_club_revisited,career
+568,integration,11,return,"I can hold the shadow’s fire without letting it burn the house down.",fight_club_revisited,lmb
+569,integration,11,return,"I accept wholeness: light and dark conscious, restrained, and directed.",fight_club_revisited,spiritual
+570,elixir,12,return,"I leave a warning and a map: face the emptiness now, or it will become fate.",fight_club_revisited,spiritual
+571,refusal,3,departure,"I believe I’m free, but I still choose what the system predicts.",matrix_architect,story
+572,refusal,3,departure,"I mistake probability for destiny and call it fate.",matrix_architect,spiritual
+573,refusal,3,departure,"I hide inside rational analysis so I don’t have to feel.",matrix_architect,lmb
+574,call,2,departure,"The Architect reveals the pattern: even rebellion can be engineered.",matrix_architect,story
+575,call,2,departure,"I see that control often disguises itself as order.",matrix_architect,career
+576,call,2,departure,"The question lands: will I choose love over systemic efficiency?",matrix_architect,spiritual
+577,threshold,5,departure,"I reject the calculated path and follow the human one instead.",matrix_architect,lmb
+578,threshold,5,departure,"I choose the anomaly—care over compliance.",matrix_architect,spiritual
+579,tests,6,initiation,"I learn that systems adapt to resistance; freedom requires awareness of structure.",matrix_architect,career
+580,tests,6,initiation,"I confront the illusion of choice when all options serve the same master.",matrix_architect,story
+581,tests,6,initiation,"I notice how institutions preserve themselves before they preserve truth.",matrix_architect,career
+582,approach,7,initiation,"I prepare to act without guarantees; uncertainty becomes the proving ground.",matrix_architect,lmb
+583,ordeal,8,initiation,"I face the choice between saving the many or honoring the one I love.",matrix_architect,spiritual
+584,reward,9,initiation,"I learn that authentic choice disrupts even perfect equations.",matrix_architect,story
+585,return,10,return,"I bring back the insight: systems are powerful, but they are not ultimate.",matrix_architect,spiritual
+586,integration,11,return,"I hold logic and compassion together without collapsing into either.",matrix_architect,lmb
+587,elixir,12,return,"I teach the lesson: awareness of structure is the first step toward freedom.",matrix_architect,career
+
+588,refusal,3,departure,"I wait for prophecy instead of acting from conscience.",matrix_oracle,story
+589,call,2,departure,"The Oracle reminds me: you already made the choice; now understand it.",matrix_oracle,spiritual
+590,call,2,departure,"I see that insight is not prediction—it’s clarity about my nature.",matrix_oracle,lmb
+591,threshold,5,departure,"I step into responsibility for the decision I pretend hasn’t happened yet.",matrix_oracle,spiritual
+592,tests,6,initiation,"I notice how belief shapes behavior long before evidence appears.",matrix_oracle,story
+593,tests,6,initiation,"I confront my need for certainty and practice trust instead.",matrix_oracle,spiritual
+594,allies,6,initiation,"A guide offers cookies, not commandments; wisdom arrives gently.",matrix_oracle,story
+595,approach,7,initiation,"I prepare by knowing myself rather than predicting outcomes.",matrix_oracle,lmb
+596,ordeal,8,initiation,"I face the cost of believing I am powerless.",matrix_oracle,spiritual
+597,reward,9,initiation,"I recognize that freedom begins with self-knowledge.",matrix_oracle,lmb
+598,return,10,return,"I act with calm certainty; I don’t need to announce my destiny.",matrix_oracle,spiritual
+599,integration,11,return,"I hold paradox: fate and free will dance in the same room.",matrix_oracle,spiritual
+600,elixir,12,return,"I pass on the teaching: know thyself before you try to change the world.",matrix_oracle,spiritual
+
+601,refusal,3,departure,"I see the world as hostile code and decide domination is safety.",agent_smith,story
+602,call,2,departure,"Smith names humanity a virus; I confront my own contempt.",agent_smith,spiritual
+603,threshold,5,departure,"I feel the temptation to reduce people to problems.",agent_smith,lmb
+604,tests,6,initiation,"I notice how hatred simplifies complexity into targets.",agent_smith,spiritual
+605,tests,6,initiation,"I see how resentment multiplies like self-replicating code.",agent_smith,story
+606,approach,7,initiation,"I prepare to face the part of me that wants annihilation over dialogue.",agent_smith,lmb
+607,ordeal,8,initiation,"I meet the mirror: the enemy is my unintegrated will to control.",agent_smith,spiritual
+608,reward,9,initiation,"I learn that surrender to truth dissolves the need to dominate.",agent_smith,spiritual
+609,return,10,return,"I stop fighting shadows externally and integrate them internally.",agent_smith,lmb
+610,integration,11,return,"I hold power without contempt; strength without dehumanization.",agent_smith,spiritual
+611,elixir,12,return,"I bring back a warning: what you hate most can become what you become.",agent_smith,spiritual
+
+612,return,10,return,"I see the sky change color; the world is still structured, but now I can move within it.",matrix_ending,story
+613,integration,11,return,"I fly not as escape, but as symbol: consciousness untethered from fear.",matrix_ending,spiritual
+614,elixir,12,return,"I leave a promise: the system can be transformed from the inside when enough minds awaken.",matrix_ending,spiritual
+615,threshold,5,departure,"Awakening begins with discomfort.",matrix_atoms,spiritual
+616,threshold,5,departure,"Pain is proof the illusion is cracking.",matrix_atoms,spiritual
+617,tests,6,initiation,"Comfort can be a control mechanism.",matrix_atoms,lmb
+618,tests,6,initiation,"Reassurance can delay autonomy.",matrix_atoms,lmb
+619,tests,6,initiation,"Guidance and manipulation can feel identical.",matrix_atoms,spiritual
+620,tests,6,initiation,"Access is not freedom.",matrix_atoms,career
+621,tests,6,initiation,"Causality can masquerade as inevitability.",matrix_atoms,spiritual
+622,tests,6,initiation,"Participation sustains the system.",matrix_atoms,career
+623,tests,6,initiation,"Labels classify but do not connect.",matrix_atoms,lmb
+624,tests,6,initiation,"Identity can be assigned before it is chosen.",matrix_atoms,lmb
+625,tests,6,initiation,"Belief shapes perception before evidence appears.",matrix_atoms,spiritual
+626,approach,7,initiation,"True choice disrupts prediction.",matrix_atoms,story
+627,approach,7,initiation,"Freedom requires structural awareness.",matrix_atoms,career
+628,approach,7,initiation,"Autonomy begins with self-knowledge.",matrix_atoms,spiritual
+629,approach,7,initiation,"Systems preserve themselves first.",matrix_atoms,career
+630,ordeal,8,initiation,"Hatred simplifies complexity into targets.",matrix_atoms,spiritual
+631,ordeal,8,initiation,"Control is fear seeking certainty.",matrix_atoms,lmb
+632,ordeal,8,initiation,"Attachment can masquerade as love.",matrix_atoms,dating
+633,ordeal,8,initiation,"Rebellion without awareness becomes obedience.",matrix_atoms,story
+634,ordeal,8,initiation,"Domination is insecurity wearing armor.",matrix_atoms,spiritual
+635,reward,9,initiation,"Compassion interrupts control.",matrix_atoms,spiritual
+636,reward,9,initiation,"Restraint is strength under tension.",matrix_atoms,lmb
+637,reward,9,initiation,"Presence dissolves panic.",matrix_atoms,lmb
+638,reward,9,initiation,"Clarity weakens manipulation.",matrix_atoms,spiritual
+639,return,10,return,"Freedom is independence from reassurance.",matrix_atoms,spiritual
+640,return,10,return,"Maturity is choice without comfort.",matrix_atoms,lmb
+641,return,10,return,"Structure is navigated, not worshipped.",matrix_atoms,career
+642,integration,11,return,"Power without contempt is integration.",matrix_atoms,spiritual
+643,integration,11,return,"You can live inside a system without being owned by it.",matrix_atoms,lmb
+644,integration,11,return,"Inner stability reduces outer control.",matrix_atoms,lmb
+645,elixir,12,return,"Notice the fear, choose the clean next move.",matrix_atoms,lmb
+646,elixir,12,return,"Awareness precedes liberation.",matrix_atoms,spiritual
+647,elixir,12,return,"The anomaly is compassion under pressure.",matrix_atoms,story
+648,elixir,12,return,"Transformation begins internally, not structurally.",matrix_atoms,spiritual
+649,refusal,3,departure,"Comfort is a cage.",cross_atoms,spiritual
+650,refusal,3,departure,"Numbness is protection.",cross_atoms,lmb
+651,refusal,3,departure,"Planning hides fear.",cross_atoms,career
+652,call,2,departure,"Truth arrives with a cost.",cross_atoms,spiritual
+653,call,2,departure,"The body signals first.",cross_atoms,lmb
+654,call,2,departure,"The loop is a lesson.",cross_atoms,story
+655,threshold,5,departure,"Imperfect action opens doors.",cross_atoms,career
+656,threshold,5,departure,"Choose truth over ease.",cross_atoms,spiritual
+657,threshold,5,departure,"Discomfort is the entry fee.",cross_atoms,lmb
+658,tests,6,initiation,"Systems resist change.",cross_atoms,career
+659,tests,6,initiation,"Resistance is data.",cross_atoms,career
+660,tests,6,initiation,"Practice beats insight.",cross_atoms,fitness
+661,tests,6,initiation,"Presence beats tactics.",cross_atoms,dating
+662,tests,6,initiation,"Belief shapes behavior.",cross_atoms,spiritual
+663,tests,6,initiation,"Projection creates enemies.",cross_atoms,spiritual
+664,tests,6,initiation,"Mentors train restraint.",cross_atoms,spiritual
+665,tests,6,initiation,"Community raises standards.",cross_atoms,career
+666,allies,6,initiation,"A witness anchors reality.",cross_atoms,lmb
+667,allies,6,initiation,"Brotherhood builds courage.",cross_atoms,story
+668,allies,6,initiation,"Love reveals the mask.",cross_atoms,dating
+669,allies,6,initiation,"Guidance without ownership.",cross_atoms,spiritual
+670,approach,7,initiation,"Define done.",cross_atoms,career
+671,approach,7,initiation,"Tighten inner criteria.",cross_atoms,lmb
+672,approach,7,initiation,"Structure reduces chaos.",cross_atoms,career
+673,approach,7,initiation,"Prepare without guarantees.",cross_atoms,spiritual
+674,ordeal,8,initiation,"Attachment seeks control.",cross_atoms,dating
+675,ordeal,8,initiation,"Control is fear.",cross_atoms,lmb
+676,ordeal,8,initiation,"Ego wants shortcuts.",cross_atoms,lmb
+677,ordeal,8,initiation,"Institutions weaponize duty.",cross_atoms,career
+678,ordeal,8,initiation,"Rebellion can be engineered.",cross_atoms,story
+679,ordeal,8,initiation,"Hatred dehumanizes.",cross_atoms,spiritual
+680,reward,9,initiation,"Restraint is strength.",cross_atoms,lmb
+681,reward,9,initiation,"Mercy interrupts violence.",cross_atoms,spiritual
+682,reward,9,initiation,"Clarity breaks spells.",cross_atoms,spiritual
+683,return,10,return,"Consistency beats intensity.",cross_atoms,fitness
+684,return,10,return,"Deeds outrank image.",cross_atoms,career
+685,integration,11,return,"Hold paradox calmly.",cross_atoms,spiritual
+686,integration,11,return,"Feel fear without obeying it.",cross_atoms,lmb
+687,elixir,12,return,"Choose the clean next move.",cross_atoms,lmb
+688,elixir,12,return,"Teach what you practiced.",cross_atoms,career
