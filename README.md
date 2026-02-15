@@ -2,6 +2,13 @@
 
 A small interactive explorer that treats the **Hero’s Journey / individuation** as a **latent space**. You search a corpus of **semantic atoms**, then curate nodes into a path. The app plots your selections as a journey curve and exports the result as CSV.
 
+## Try it live
+
+**Streamlit App (Live):**  
+https://jdwcimcv1.streamlit.app
+
+> Note: If you want to reset your current journey, simply refresh the page.
+
 ![Demo GIF](docs/0_JK0lJJ6vDGqFpFbc.gif)
 
 ![Streamlit App Screenshot](docs/appSC.png)
@@ -19,6 +26,17 @@ A small interactive explorer that treats the **Hero’s Journey / individuation*
 - Lets the user pick nodes to form a journey.
 - Visualizes the journey as a Journey Map (spoke value over path steps).
 - Exports the chosen journey as a CSV artifact (reproducible, shareable).
+
+## Quick walkthrough (how to use the app)
+
+1) Enter a question or statement related to your current Hero’s Journey moment (e.g. *"I feel stuck and numb but want to move forward"*).
+2) Click **Search** to retrieve the most semantically relevant atoms.
+3) Select the result that resonates most and click **Add to Journey**.
+4) Scroll down to confirm the **Journey Map** updates (you’ll see your journey path plotted).
+5) Enter a new query and repeat — each cycle adds another step to the journey.
+6) When finished, use **Export** to download the journey as a CSV artifact.
+
+> Tip: Refresh the page to reset the current journey.
 
 ## Why it’s interesting (Clear thinking + creative approach)
 
