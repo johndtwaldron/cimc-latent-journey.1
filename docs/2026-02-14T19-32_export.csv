@@ -1,0 +1,21 @@
+﻿,id,stage,spoke,act,text,source,workstream,psych_axis,score
+0,247,return,10,return,I return to ordinary life with new capacity; calm becomes a flex.,DBZ,story,image_vs_integrity,0.37192070484161377
+1,121,refusal,3,departure,I feel numb in a life that looks fine on paper.,fight_club,story,fear_vs_action,0.35404229164123535
+2,301,call,2,departure,"I notice the ‘same house, same stress, same echo’ pattern and stop calling it normal.",groundhog_day,lmb,image_vs_integrity,0.34885290265083313
+3,403,refusal,3,departure,I feel the ache of meaninglessness but keep performing so no one worries.,dead_poets,spiritual,numbness_vs_presence,0.33132094144821167
+4,535,refusal,3,departure,"I numb out to survive, then resent the numbness.",fight_club_revisited,lmb,numbness_vs_presence,0.3128037452697754
+5,124,threshold,5,departure,I choose pain over numbness; sensation becomes a doorway back to myself.,fight_club,story,projection_vs_ownership,0.308759868144989
+6,327,refusal,3,departure,I optimize myself for someone’s love and feel it turn uncanny.,groundhog_day,dating,attachment_vs_love,0.29808688163757324
+7,67,ordeal,8,initiation,I feel grief and keep moving forward.,core,core,comfort_vs_truth,0.29615551233291626
+8,537,call,2,departure,I go looking for real feeling and end up borrowing suffering.,fight_club_revisited,lmb,comfort_vs_truth,0.2947618365287781
+9,407,threshold,5,departure,I step out of the row and risk looking strange to feel the truth.,dead_poets,story,comfort_vs_truth,0.2941846549510956
+10,16,call,2,departure,I feel the discomfort that precedes change.,core,core,comfort_vs_truth,0.291106641292572
+11,543,threshold,5,departure,I stop asking what I should be and start meeting what I am.,fight_club_revisited,lmb,projection_vs_ownership,0.28897279500961304
+12,66,ordeal,8,initiation,I tolerate discomfort long enough for it to transform.,core,core,comfort_vs_truth,0.2884635329246521
+13,165,refusal,3,departure,I cling to ordinary rules because wonder feels like losing control.,alice,story,numbness_vs_presence,0.284082293510437
+14,239,refusal,3,departure,I want to stay a kid forever; responsibility feels like a trap.,DBZ,story,practice_vs_fantasy,0.28366559743881226
+15,57,approach,7,initiation,"I measure progress with outputs, not feelings.",core,core,chaos_vs_structure,0.2832948863506317
+16,168,tests,6,initiation,Nothing behaves ‘properly’; I learn to adapt instead of argue.,alice,story,control_vs_autonomy,0.2829141318798065
+17,115,tests,6,initiation,I accept that freedom feels like fear at first.,matrix,story,control_vs_autonomy,0.2772235572338104
+18,78,reward,9,initiation,I recognize that I am becoming reliable to myself.,core,core,practice_vs_fantasy,0.277081161737442
+19,306,tests,6,initiation,I try the ‘no consequences’ life and discover indulgence still feels empty.,groundhog_day,story,comfort_vs_truth,0.27622145414352417
